@@ -39,7 +39,7 @@
             "TotalCountText": "7 words",
             "KnownCount": 0,
             "UnknownCount": 7,
-            "UncoveredCountText": "",
+            "UncoveredCountText": "0",
             "IsAll": false,
             "IsCompleted": true,
             "IsRestricted": false,
