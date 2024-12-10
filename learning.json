@@ -623,9 +623,9 @@
         "Summary": {
             "ImageUrl": "https://s3-eu-west-1.amazonaws.com/ugc.cdn-wordup.com/photo/3p6obmpteUXIw3t63SbzD6SVkdU.jpg",
             "UncoveredCount": 2216,
-            "KnewCount": 433,
-            "LearningCount": 268,
-            "ToLearnCount": 115,
+            "KnewCount": 1240,
+            "LearningCount": 700,
+            "ToLearnCount": 910,
             "ToUncoverCount": 24025,
             "TotalCount": 24241
         },
