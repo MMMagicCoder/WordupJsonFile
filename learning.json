@@ -637,26 +637,26 @@
                     {
                         "Title": "Tue",
                         "Subtitle": null,
-                        "Value": 0,
-                        "Percentage": 0
+                        "Value": 7,
+                        "Percentage": 70
                     },
                     {
                         "Title": "Wed",
                         "Subtitle": null,
-                        "Value": 0,
-                        "Percentage": 0
+                        "Value": 2,
+                        "Percentage": 20
                     },
                     {
                         "Title": "Thu",
                         "Subtitle": null,
-                        "Value": 0,
-                        "Percentage": 0
+                        "Value": 9,
+                        "Percentage": 90
                     },
                     {
                         "Title": "Fri",
                         "Subtitle": null,
-                        "Value": 0,
-                        "Percentage": 0
+                        "Value": 6,
+                        "Percentage": 60
                     },
                     {
                         "Title": "Sat",
@@ -667,14 +667,14 @@
                     {
                         "Title": "Sun",
                         "Subtitle": null,
-                        "Value": 0,
-                        "Percentage": 0
+                        "Value": 1,
+                        "Percentage": 10
                     },
                     {
                         "Title": "Mon",
                         "Subtitle": null,
-                        "Value": 0,
-                        "Percentage": 0
+                        "Value": 5,
+                        "Percentage": 50
                     }
                 ]
             },
