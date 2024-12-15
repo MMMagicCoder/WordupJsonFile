@@ -1,0 +1,7 @@
+4525|1|be|am,are,is,was,were,been,'m,m|exist or live|30b5d81d-3549-4084-b45c-ae325b4dec51|1|biː|bi
+1111|2|the||Used to point forward to a following qualifying or defining clause or phrase.|4278b6cc-d60b-4ed0-8761-cc8e710e432c|1|ðiː|ðə,ði
+14817|3|you|your,yours,yous|Used to refer to the person or group of people the speaker is talking to|445b6403-967c-4533-a09d-9c1bc9f08f33|1|juː|jə
+3337|4|to||Used before verbs to form infinitives as in referring to an action.|4916a374-2e94-406b-a2f1-26d8ca99d5fa|1|tuː|tə,tu
+6134|5|and|ands|Used to connect words of the same part of speech, clauses, or sentences that are to be taken together.|de905d76-0ed4-45f0-aee6-f1cdb6902bee|1|ænd|ənd,ən,n
+7096|6|of||Shows who or what something belongs to or is connected with|1f4f8a7d-bac0-4105-85ac-187dd75810ae|1|ɒv|əv,ʌv
+17214|7|in|ins|Located inside or within a place or thing|7e133e45-b896-46ec-89c6-fc4dd49b6f3c|1|ɪn|ɪn
