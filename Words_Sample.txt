@@ -5,3 +5,32 @@
 5|5|and|ands|Used to connect words of the same part of speech, clauses, or sentences that are to be taken together.|de905d76-0ed4-45f0-aee6-f1cdb6902bee|1|ænd|ənd,ən,n
 6|6|of||Shows who or what something belongs to or is connected with|1f4f8a7d-bac0-4105-85ac-187dd75810ae|1|ɒv|əv,ʌv
 50|7|in|ins|Located inside or within a place or thing|7e133e45-b896-46ec-89c6-fc4dd49b6f3c|1|ɪn|ɪn
+21138|8|that|those|To introduce a clause; showing the cause, result, purpose, or effect of an action.|0d40c7c8-bca3-476f-a916-00564d3d5d05|1|ðæt|ðæt
+17817|9|have|has,having,had,'d,'ve,d,ve,haves|to own or possess something|74e54c3b-9945-44b1-92a4-aff1e822528c|1|hæv|həv,əv
+15280|10|it||Used to refer to a thing, animal, or child previously mentioned or easily identified.|cbfbe554-6210-48da-9e2c-a701a70ed966|1|ɪt|ɪt
+6516|11|do|does,doing,did,done,doer,doers,doings|Perform or carry out a task or action|2ed11547-a109-49d0-a707-d7ee69d6ffc9|1|duː|duː
+15476|12|go|goes,going,went,gone,gonna,goings|To move or travel from one place to another|d5345df3-17e2-4a40-9900-9cb18c18f021|1|ɡəʊ|ɡəʊ
+15682|13|my|mies|Belonging to or associated with the speaker.|1f5c1c22-6d88-4108-b61d-e58b78cfb26a|1|maɪ|maɪ
+8198|14|get|gets,getting,got,gotten|To receive or obtain something|480c2f42-c619-4eb8-a1db-b3f617384c53|1|ɡet|ɡet
+7315|15|me|mi|The person that the speaker is referring to|d85c0a6e-b9e8-48a9-afa5-ab57ce84008e|1|miː|mi
+16766|16|for||Used to show the reason or cause of something|d722bab5-3cc8-4ccd-bace-0f74cc92e433|1|fɔː(r)|fər,fɔːr
+5530|17|on||Above and in contact with something|558a1e0a-8561-439d-bfe3-b1acefe245aa|1|ɒn|ɑːn
+16288|18|this|these|Refers to the person or thing closest to the speaker.|e0d41005-a3b7-4040-aac0-c14bd46192e2|1|ðɪs|ðɪs
+7533|19|we||The speaker or writer and one or more other people|522756f0-d334-41d1-a937-43e0a3f5f49a|1|wiː|wi
+12042|20|can|cannot,could,cans|to be able to do something|55438ed1-0e7a-4f19-8dfc-7702074706d8|1|kæn|kən
+453|21|with||accompanied by or in the company of|7a748f87-8772-4d76-9634-6873359c9988|1|wɪθ|wɪð
+22065|22|but|buts|It is used to introduce a word or phrase that contrasts with what was said before.|f89da96e-9c90-48d6-b676-bac099ee936d|1|bʌt|bət
+2155|23|know|knows,knowing,knew,known,knower,knowingness|To have information in your mind|b55f1b90-9461-4c35-ab14-4ad4e720bf55|1|nəʊ|nəʊ
+14638|24|what|whats|Used to ask for information about someone or something|251b7aa4-77d1-4295-8159-ca09a9e459e1|1|wɒt|wʌt
+5783|25|all||The whole of something|d93303ca-63ad-43ca-902a-ebba013905fc|1|ɔːl|ɔːl
+3172|26|so||To such a great extent|2fa65fb7-06c2-4bc1-98a9-7a3b9b803f95|1|səʊ|səʊ
+14950|27|not|nots|Used to express the opposite or denial of something stated before|1d921448-9946-421f-b6ba-f3596995ff4a|1|nɒt|nɑːt
+18629|28|just|justly,unjust|Only a moment ago|4d5cbd48-5f9f-4e3f-8a81-3593409d380a|1|dʒʌst|dʒʌst
+17894|29|like|likes,liking,liked,likeness,likable,likability,likeable,unlike|To have a good feeling toward someone or something|6c440b62-c66b-48c7-92a0-50593420634b|1|laɪk|laɪk
+5576|30|no|noes,no's,nah,nos|Not any|d2b922be-d498-4370-921d-9bfbfe28f766|1|nəʊ|nəʊ
+9646|31|think|thinks,thinking,thought,thoughts,thinker,thinkers,rethink,thinkable|To have a certain belief or idea|2127c199-4e96-453a-95f3-7a06c457fc77|1|θɪŋk|θɪŋk
+4175|32|want|wants,wanting,wanted,wanna,wan|to wish for something|67c9e067-06b5-42d7-a103-abb976b39bce|1|wɒnt|wɑːnt
+15784|33|come|comes,coming,came,cometh,comings|to move or travel towards the speaker or with the speaker|bd858fea-700c-4abc-b217-c4480d4d7af0|1|kʌm|kʌm
+19188|34|up|ups,upping,upped|To a higher place or position|299d3bf3-6d2b-479d-bdfc-b26e703c2a4a|1|ʌp|ʌp
+4434|35|if|ifs|Used to introduce a condition or choice|58512d9f-50aa-4eac-8c59-0b3fc0191967|1|ɪf|ɪf
+22877|36|yes|yeses,yeah,yep|A response to show agreement or acceptance|5ed4dae1-fed6-4509-ab77-d7c7c2a28173|1|jes|jes
