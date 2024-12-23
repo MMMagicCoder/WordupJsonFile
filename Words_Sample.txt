@@ -1,10 +1,10 @@
-1|1|be|am,are,is,was,were,been,'m,m|exist or live|30b5d81d-3549-4084-b45c-ae325b4dec51|1|biː|bi
-2|2|the||Used to point forward to a following qualifying or defining clause or phrase.|4278b6cc-d60b-4ed0-8761-cc8e710e432c|1|ðiː|ðə,ði
-3|3|you|your,yours,yous|Used to refer to the person or group of people the speaker is talking to|445b6403-967c-4533-a09d-9c1bc9f08f33|1|juː|jə
-4|4|to||Used before verbs to form infinitives as in referring to an action.|4916a374-2e94-406b-a2f1-26d8ca99d5fa|1|tuː|tə,tu
-5|5|and|ands|Used to connect words of the same part of speech, clauses, or sentences that are to be taken together.|de905d76-0ed4-45f0-aee6-f1cdb6902bee|1|ænd|ənd,ən,n
-6|6|of||Shows who or what something belongs to or is connected with|1f4f8a7d-bac0-4105-85ac-187dd75810ae|1|ɒv|əv,ʌv
-50|7|in|ins|Located inside or within a place or thing|7e133e45-b896-46ec-89c6-fc4dd49b6f3c|1|ɪn|ɪn
+4525|1|be|am,are,is,was,were,been,'m,m|exist or live|30b5d81d-3549-4084-b45c-ae325b4dec51|1|biː|bi
+1111|2|the||Used to point forward to a following qualifying or defining clause or phrase.|4278b6cc-d60b-4ed0-8761-cc8e710e432c|1|ðiː|ðə,ði
+14817|3|you|your,yours,yous|Used to refer to the person or group of people the speaker is talking to|445b6403-967c-4533-a09d-9c1bc9f08f33|1|juː|jə
+3337|4|to||Used before verbs to form infinitives as in referring to an action.|4916a374-2e94-406b-a2f1-26d8ca99d5fa|1|tuː|tə,tu
+6134|5|and|ands|Used to connect words of the same part of speech, clauses, or sentences that are to be taken together.|de905d76-0ed4-45f0-aee6-f1cdb6902bee|1|ænd|ənd,ən,n
+7096|6|of||Shows who or what something belongs to or is connected with|1f4f8a7d-bac0-4105-85ac-187dd75810ae|1|ɒv|əv,ʌv
+17214|7|in|ins|Located inside or within a place or thing|7e133e45-b896-46ec-89c6-fc4dd49b6f3c|1|ɪn|ɪn
 21138|8|that|those|To introduce a clause; showing the cause, result, purpose, or effect of an action.|0d40c7c8-bca3-476f-a916-00564d3d5d05|1|ðæt|ðæt
 17817|9|have|has,having,had,'d,'ve,d,ve,haves|to own or possess something|74e54c3b-9945-44b1-92a4-aff1e822528c|1|hæv|həv,əv
 15280|10|it||Used to refer to a thing, animal, or child previously mentioned or easily identified.|cbfbe554-6210-48da-9e2c-a701a70ed966|1|ɪt|ɪt
@@ -34,3 +34,67 @@
 19188|34|up|ups,upping,upped|To a higher place or position|299d3bf3-6d2b-479d-bdfc-b26e703c2a4a|1|ʌp|ʌp
 4434|35|if|ifs|Used to introduce a condition or choice|58512d9f-50aa-4eac-8c59-0b3fc0191967|1|ɪf|ɪf
 22877|36|yes|yeses,yeah,yep|A response to show agreement or acceptance|5ed4dae1-fed6-4509-ab77-d7c7c2a28173|1|jes|jes
+16647|37|out|outed,outing,outs,outings|Not at home or work, or not in the usual place|609a8d86-3430-46f0-98b0-4eb2afd71554|1|aʊt|aʊt
+12661|38|when||at what time|7323025e-9174-4b28-b78b-91c967235dba|1|wen|wen
+2640|39|they||Used to refer to two or more people or things previously mentioned or easily identified|bbc146c2-42df-490d-95e9-2ec363568e13|1|ðeɪ|ðeɪ
+18927|40|at||Used to point forward to a following qualifying or defining clause or phrase|247c75f2-1a72-4b18-8376-4fd3eb02da43|1|æt|ət
+20447|41|say|says,saying,said,sayings,sayers|To express in spoken or written words|9c9fc8a7-1802-4cb0-b81b-24a32bd40282|1|seɪ|seɪ
+10090|42|as||To the same degree or amount.|b4389094-fe25-463b-82e4-69d2c2448a12|1|æz|əz
+18787|43|see|sees,seeing,saw,seen|To notice or become aware of someone or something by using your eyes|b8a43739-0a57-4f83-9b31-95edb6b9c62f|1|siː|siː
+31148|44|one||The smallest natural number more than zero.|8570bf0a-b889-4b33-a4f1-71261e2c8b04|1|wʌn|wʌn
+20996|45|make|makes,making,made,remake,maker,makers,remakes,remade,remaking,maketh|To create or produce something.|0fcc55c1-c548-46df-b65c-f4714634e202|1|meɪk|meɪk
+7505|46|he||Used to refer to a male person or animal that has been mentioned or is easily identified|34be9f3d-490f-43de-9942-a28d77d6c302|1|hiː|hi,iː,i
+15232|47|about||On the subject of, talking of|fcfbee5b-2175-43c4-a059-9b4550301c14|1|əˈbaʊt|əˈbaʊt
+2036|48|there||In or at that place|c0f2ccff-a0a1-4ef5-b3e0-e41de926748d|1|ðeə(r)|ðer,ðər
+19202|49|now||At the present time or moment|6684cc3d-6da0-405d-a4a6-5a55708520cc|1|naʊ|naʊ
+16489|50|time|times,timing,timed,timely,alltime|The thing that is measured in seconds, minutes, hours, days, etc.|fe8f14e0-0753-4258-bb8c-d6fa25168aad|1|taɪm|taɪm
+3798|51|love|loves,loving,loved,lovely,lover,lovers,unloving,loveliest,loveth,lovelier,loveless|An intense feeling of affection and care towards someone.|f0bad124-c28d-431f-8cbd-6885f5ec1c30|1|lʌv|lʌv
+20777|52|from||Used to show the place, person, or thing that something starts at or comes from.|9b067a3e-9ba9-4de8-a56d-39674569e88f|1|frɒm|frəm,frʌm,frɑːm
+4751|53|right|rights,righting,righted,rightly,rightness|Correct or correct behavior.|61402a9a-82d7-4b86-884a-9145c978e2b4|1|raɪt|raɪt
+18659|54|take|takes,taking,took,taken,taketh,retakes|To get hold of something with your hands|04a356af-e54a-4941-87b6-afb122f44dad|1|teɪk|teɪk
+8030|55|here||In, at, or to this place or position.|0996b66d-267a-422e-8173-a8bae6511145|1|hɪə(r)|hɪr
+21452|56|look|looks,looking,looked,looker|To turn your eyes in a particular direction|d319c207-adcb-4b23-92c0-0e6b7a8a3697|1|lʊk|lʊk
+5115|57|will|'ll,ll,willed,willing|Used to express future tense, showing something that will happen or be done|37acbf8b-12a7-44b3-9770-52665a28af05|1|wɪl|wɪl
+8467|58|person|persons,people,peopled|A human being, whether a man, woman, or child|70c7e0da-7519-4e31-8221-a8ffb6f27b3c|1|ˈpɜːsn|ˈpɜːrsn
+18584|59|or||Used to link different possibilities|46aaa4f6-26ca-46ee-8d24-46e77eef9021|1|ɔː(r)|ɔːr
+13140|60|how||In what way or manner|c16bf66f-eaec-47e0-b960-82c34595ae3a|1|haʊ|haʊ
+16323|61|thing|things,thingy|An object, item, or entity that is not specifically named or described|e2d79319-f3e5-475b-9f90-433503f1370a|1|θɪŋ|θɪŋ
+7175|62|well|wellness|In a good or satisfactory way.|8a0e28b4-75df-4d52-81fa-bb4f6954bccc|1|wel|wel
+12097|63|good|goods,goodly,gooding,goodness|Having the qualities that are desired or admirable|cbe50d1f-f390-4699-8bb4-ca4a0e6d29c0|1|ɡʊd|ɡʊd
+22611|64|tell|tells,telling,told|To give information to somebody by speaking or writing.|6f4dc5d3-eee1-4628-b57e-273cc2c3e587|1|tel|tel
+9620|65|feel|feels,feeling,felt,feelings|To touch or examine something|a02c7cef-b2dd-4e34-906d-2f0f6c90c0ca|1|fiːl|fiːl
+6986|66|way|ways|The route or direction that someone or something should take|4b6e98d3-1517-4e51-ba91-7ddfa14fa84d|1|weɪ|weɪ
+3692|67|who||Used to ask which person did an action or to whom something belongs.|650c0655-1753-4012-b6a7-f36f06400220|1|huː|huː
+4550|68|her||Used to refer to a female who was just mentioned|6bbe4b20-8f9b-423b-81f8-14ea94376a28|1|hɜː(r)|hər,ɜːr,ər,hɜːr
+6635|69|our|ours|Belonging to or connected with us; that we have|5697bb34-10bc-4215-be3e-a4e337f82f60|1|ˈaʊə(r)|ɑːr,ˈaʊər
+14510|70|she||Used to refer to a woman, girl, or female animal already mentioned or easily identified|d8b6ecd9-259d-439d-99af-e0d536d06ee4|1|ʃiː|ʃi
+18302|71|really||Very; to a great degree.|89096168-e04a-4908-a99b-4a170bb60650|1|ˈrɪəli|ˈriːəli
+6521|72|never||At no time in the past or future; not ever|5696ace7-8e5d-4991-ba90-48824242a67c|1|ˈnevə(r)|ˈnevər
+12990|73|back|backs,backing,backed,backward|in the opposite direction to the one you are facing or moving in|f68cc801-375f-4772-9cc8-c2b2012e50fa|1|bæk|bæk
+6178|74|need|needs,needing,needed,unneeded|To require something because it is essential or very important rather than just desirable.|718e1e33-2799-4f30-ab5f-cc99be670b87|1|niːd|niːd
+7123|75|more||In greater quantity, amount, or degree|a27b24bd-7909-43fb-bfaa-ad5abc34a68a|1|mɔː(r)|mɔːr
+4126|76|by||Used to show who or what does an action|5cab717a-bf03-4ab0-9784-adb26583cb80|1|baɪ|baɪ
+6785|77|down|downs,downing,downed,downer|From a higher to a lower place or position|31262748-fac1-4587-89c9-609c4b433873|1|daʊn|daʊn
+14578|78|them|themed|Used to refer to specific people or things previously mentioned or easily identified|a5174963-09c9-4303-b17e-dae5fbbcacc5|1|ðem|ðəm
+20397|79|would|wouldn't|Used to show past tense or express future intent from past perspective.|8dea3ed9-41eb-479f-8dc3-276a631dd49a|1|əd|wʊd,wəd
+2531|80|life|lives|The period between birth and death, or the experience or state of being alive|75e535d9-4b25-411b-811d-9e9914314bb4|1|laɪf|laɪf
+21024|81|then||at that time|ddf742d6-6ae4-4887-880d-ba8ea17ab07e|1|ðen|ðen
+17172|82|some|someday|An unspecified amount or number of|a5bd3c75-eb31-4509-8096-6e7d90af44ef|1|sʌm|səm
+4829|83|him||Used to refer to a male person or animal that has been mentioned or is easily identified.|5211a791-723e-4e30-8dea-49c81b8e04c0|1|ɪm|hɪm
+5069|84|his||belongs to a male person already identified or mentioned|b2d5473b-5dd9-461a-9ca3-8ae36bc55929|1|ɪz|hɪz
+9174|85|give|gives,giving,gave,given,giveth|To hand something to someone.|a61cc3f9-24c6-44d9-8743-000a68650bcf|1|ɡɪv|ɡɪv
+2049|86|man|men,mans,manning,manned,manly|An adult human male|d91f7c26-6c6c-4188-b75f-1e597f2307e5|1|mæn|mæn
+1676|87|day|days,daily|A period of 24 hours, especially from twelve o'clock one night to twelve o'clock the next night|4eb603a6-befd-4402-abdc-edebaa1fff4d|1|deɪ|deɪ
+3980|88|us||Used by the speaker or writer to indicate the speaker or writer and one or more other people as the subject of a verb.|fcffdcb0-fbaa-4a65-a014-9e4770bd1466|1|ʌs|əs
+22371|89|because|coz,cos|Used to show the reason or cause of something|c9ddc0d8-98fb-49a9-8103-49bb0d194e64|1|bɪˈkɒz|bɪˈkəz,bɪˈkɔːz
+11643|90|where||In or to what place|557ec3d0-535e-47ca-ab19-44000a0238c2|1|weə(r)|wer
+7978|91|work|works,worked,working,hardworking,workwise|A task or tasks to be undertaken.|fc4f55ab-ac2d-4061-a71b-e78e86123fd7|1|wɜːk|wɜːrk
+16187|92|why|whys|Used to ask reason or purpose of something.|a532064f-d36a-4a6d-b777-d4a8cbd35892|1|waɪ|waɪ
+7297|93|something||An unspecified or unknown thing|fb06c478-cef8-4515-8dae-313ac5d41564|1|ˈsʌmθɪŋ|ˈsʌmθɪŋ
+15834|94|try|tries,trying,tried|To make an attempt or effort to do something|898d5f92-5e7b-4f18-bb85-946ab299329c|1|traɪ|traɪ
+20721|95|very||Used to emphasize the degree or extent of something.|0dcb906d-251e-45c2-90b2-925967fc0016|1|ˈveri|ˈveri
+10075|96|mean|means,meaning,meant,meaner,meanly,meanness,meanings,meanest|To have something as a purpose or intention; to intend|ba6e5fcc-bba9-47d3-b26f-51544f03475b|1|miːn|miːn
+11546|97|only||No more than; just|1910b861-5d1d-4a13-bdc8-f21187bc5bbd|1|ˈəʊnli|ˈəʊnli
+1815|98|let|lets,letting|To allow or permit.|cedf50e6-3638-4014-950f-4a159a0385a5|1|let|let
+9376|99|their|theirs|Used to show something belongs or is linked to people.|b317fbb5-396b-4325-b400-466b75affb84|1|ðeə(r)|ðer
+11238|100|leave|leaves,leaving,left|To go away from a place or person|7512cdc6-ccba-4ee8-8c07-a14221c28da5|1|liːv|liːv
