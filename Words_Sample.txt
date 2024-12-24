@@ -98,3 +98,403 @@
 1815|98|let|lets,letting|To allow or permit.|cedf50e6-3638-4014-950f-4a159a0385a5|1|let|let
 9376|99|their|theirs|Used to show something belongs or is linked to people.|b317fbb5-396b-4325-b400-466b75affb84|1|ðeə(r)|ðer
 11238|100|leave|leaves,leaving,left|To go away from a place or person|7512cdc6-ccba-4ee8-8c07-a14221c28da5|1|liːv|liːv
+8139|101|too||In addition or also.|2487b201-cc19-4e0c-9b75-ac266932b0a8|1|tuː|tuː
+7336|102|into||moving or looking towards the inside of something|797d8d89-3c1a-4277-b4e6-c88ef6102ed6|1|ˈɪntuː|ˈɪntə,ˈɪntu
+2714|103|always||At all times, on every occasion, constantly|3e842505-7fca-488f-8126-68a44a093021|1|ˈɔːlweɪz|ˈɔːlweɪz
+506|104|little||Not big in size or amount|27369f41-cd4e-4b59-a39f-dd58c3b228b6|1|ˈlɪtl|ˈlɪtl
+8580|105|live|lives,living,lived,unlived,livable,livings,relive|To be alive or have life|2fa636d9-035f-41c5-9d8b-903342021eb1|1|lɪv|lɪv
+7608|106|over|overly,overs|From one side to the other.|ddc6c3dd-6911-4a44-b179-58f08494f129|1|ˈəʊvə(r)|ˈəʊvər
+7393|107|call|calls,calling,called|To shout or say something loudly to attract someone's attention|b658cde7-ecb7-4ee2-9dcb-497837deec79|1|kɔːl|kɔːl
+22928|108|much||A large amount or to a high degree|499ab88d-3dcf-46f0-9afe-5f1ffe0574f5|1|mʌtʃ|mʌtʃ
+15308|109|keep|keeps,keeping,kept,keepeth|To have or hold something|81aaf275-bf97-4a1c-9dcf-e73f08adbc43|1|kiːp|kiːp
+6355|110|world|worlds,worldly|Planet Earth where humans live.|60df62f7-1ca8-48b8-8954-4c41b5f9036c|1|wɜːld|wɜːrld
+11462|111|than||Used to make comparisons between two things|ee5d731a-e17a-4382-931f-0b83ff22fb38|1|ðæn|ðən
+10772|112|through|thru|Moving in one side and out of the other side of something.|7451d0b1-cf5f-4d58-bea8-dec7b6f904d3|1|θruː|θruː
+4646|113|off|offs|To a place or position that's not on something or someone.|ea8b32ab-6a0b-432b-bf2d-1887882d543d|1|ɒf|ɔːf
+15999|114|every||Used to mention all members or parts of a group or category without exception.|d87b6481-a4f8-4fb5-89ff-145c86b15186|1|ˈevri|ˈevri
+12562|115|still|stills,stilling,stilled,stiller,stillest,stillness|Not moving or making a sound.|60e83d58-91fd-4868-8f45-ee0d545e505a|1|stɪl|stɪl
+16927|116|other|others,othering,otherness|Different or separate from the person or thing already mentioned.|1b3a4f73-f20f-41e0-b94e-9a696fde2bf6|1|ˈʌðə(r)|ˈʌðər
+3834|117|talk|talks,talking,talked|To communicate thoughts, ideas, or feelings by speaking|634c801a-d774-493c-b072-8ceff5bdfc6b|1|tɔːk|tɔːk
+13892|118|year|years,yearly|A period of 12 months or 365 days|f8dc0ea0-80be-4a06-a7fa-c2ce4f0fbdd6|1|jɜː(r)|jɪr
+11898|119|find|finds,finding,findings|To discover or come across something by chance or search.|daf8f210-a216-4c45-a060-8c12938774ef|1|faɪnd|faɪnd
+12126|120|even|evens,evened,evenly|Used to express something surprising or unexpected.|f2e87a08-97b3-4323-baff-ffd883f36c88|1|ˈiːvn|ˈiːvn
+5347|121|away||To or at a distance from a particular place, person, or thing|f9bb8ac3-0952-48ff-bcb1-b93fa97378ce|1|əˈweɪ|əˈweɪ
+30077|122|hey||Used to get attention, express surprise, enthusiasm, or disagreement.|4bd94876-3456-45ce-bf87-696b2e883bc8|1|heɪ|heɪ
+15350|123|long|longs,longing,longed,longer,longest,longings|Measuring how something is from end to end|9500c190-4291-419b-8b82-a1ac21cd6df6|1|lɒŋ|lɔːŋ
+12580|124|night|nights,nightly|The period of darkness in each twenty-four hours; the time from sunset to sunrise|d4114a51-7347-4884-a095-99acfd554544|1|naɪt|naɪt
+32767|125|two||The number following one and preceding three|e7ce82b1-3178-459f-b343-0e9d42761c22|1|tuː|tuː
+8502|126|put|puts,putting|To move something to a different place|405a8283-6d87-49ef-a666-7603656da0e0|1|pʊt|pʊt
+12378|127|hear|hears,hearing,heard,hearer,hearings,hearers|to receive sound through the ears|f9feb99b-a3cd-4bdc-8115-d7705d042759|1|hɪə(r)|hɪr
+12191|128|great|greater,greatest,greats,greatly,greatness|Being of large size or amount, or more than usual.|17d4abf1-5e28-47fa-88ce-2edaab9401fb|1|ɡreɪt|ɡreɪt
+15711|129|lot|lots|A large amount or number of people or things|fc3a8e57-3691-45bf-881e-b89e72bc8c26|1|lɒt|lɑːt
+10108|130|play|plays,playing,played,playable|To do activities for fun or enjoyment|7fc599c5-cbad-4e0f-8d6e-15cda9a508f5|1|pleɪ|pleɪ
+19664|131|start|starts,starting,started|To begin doing something or start happening|ed481109-dc07-4539-a428-fe9ac51ff40f|1|stɑːt|stɑːrt
+1865|132|first|firsts,firstly|Being before all others in time or order; earliest; 1st.|88389489-4cfc-4122-ac25-f3911d89b3b1|1|fɜːst|fɜːrst
+18455|133|may|might,mays|A way to ask for permission.|8556f30c-b6f4-486a-b224-48f5e172eab7|1|meɪ|meɪ
+15736|134|should||Used to indicate that something is probable|e10b5fa3-0cfa-43e6-9ad9-15339e5c801d|1|ʃʊd|ʃəd
+18966|135|use|uses,using,used|To employ for some purpose|f41be5d3-b463-486f-a099-0ce5f6ebab8a|1|juːz|juːz
+18181|136|around||In or to many places in area|a4de7f8e-ce04-4a3a-83f9-b40e55b60117|1|əˈraʊnd|əˈraʊnd
+16864|137|any||One or some, it does not matter which|c481141b-2c69-49c7-badd-b301b0ac4034|1|ˈeni|ˈeni
+10608|138|guy|guys|A term used for a man or boy.|65a47eb1-35a3-4627-a8ec-01d47d5e791d|1|ɡaɪ|ɡaɪ
+14809|139|thank|thanks,thanking,thanked|To express gratitude or appreciation towards someone.|9bd1d771-8f85-4ffc-ba8d-33985cd82426|1|θæŋk|θæŋk
+14623|140|baby|babies,babe,babyish,babes|A very young human, especially one newly or recently born|78b9e3bf-4ce3-4a09-b064-c6ac78af06ac|1|ˈbeɪbi|ˈbeɪbi
+13284|141|ever|everly,evers|At any time or in any event|f92c0dae-58c2-481b-ad62-4faa52e8f555|1|ˈevə(r)|ˈevər
+23053|142|before||In front of|055ce77a-6683-4415-9621-ba9ec7f23646|1|bɪˈfɔː(r)|bɪˈfɔːr
+3056|143|being|beings|A living creature like a human, animal or plant.|89dcb890-c4cb-4e1f-a0be-672bc4de1926|1|ˈbiːɪŋ|ˈbiːɪŋ
+16713|144|again||One more time; once more|5df3f6ce-1ea8-4e8a-b5c8-64ced2e2d610|1|əˈɡeɪn|əˈɡen
+10242|145|show|shows,showing,showed,shown|To make something visible or allow it to be seen.|37a43b42-b043-4bf3-84e5-43d9946c9644|1|ʃəʊ|ʃəʊ
+16739|146|home|homes,homing,homed,homely|The place where one lives|5ac5a861-b062-43bf-b74b-ed4d40e88982|1|həʊm|həʊm
+4334|147|friend|friends,friendly,friendship,friendships,friendliest,friendlier,unfriend,friendless|Someone you like, trust, and enjoy spending time with.|9fcd18a0-59fb-43bc-89c4-2c7497fdb79a|1|frend|frend
+17848|148|help|helps,helping,helped,helper,helpers|To give aid or support to someone or something.|ed47492b-ab40-499c-afad-4c170ce95dbe|1|help|help
+14376|149|big|bigger,biggest,bigness|large in size or amount|d058635e-1592-433e-8f41-cdb9c409e78d|1|bɪɡ|bɪɡ
+13469|150|girl|girls,girly|A young or relatively young woman, often a child or teenager|011ccf10-1e1f-4c88-bbe8-9da5d785dd98|1|ɡɜːl|ɡɜːrl
+22973|151|wait|waits,waiting,waited|To stay in one place until something happens or someone comes.|49be8725-b9cd-4473-995e-37cfb24b2a5a|1|weɪt|weɪt
+4325|152|nothing|nothings,nothingness|Not anything, no single thing|fcb2fb44-0c07-45d4-8e5b-d38666ceaa86|1|ˈnʌθɪŋ|ˈnʌθɪŋ
+4629|153|someone|somebody|an unknown or unspecified person|2ca054ad-a577-418a-a8e2-6d7dc2c451b4|1|ˈsʌmwʌn|ˈsʌmwʌn
+13194|154|new|newer,newest,newly,newness|Recently created or started|d9a0671c-06e3-42b0-888d-f7487a511000|1|njuː|nuː
+16010|155|place|places,placing,placed|A specific area or region of the world, a physical location|86c3e8bf-587e-43b4-b921-30968e9699bd|1|pleɪs|pleɪs
+6930|156|heart|hearts,hearted|The organ in your body that pumps blood|2d468e29-4312-4f97-849a-347f45db4a0b|1|hɑːt|hɑːrt
+1940|157|better|betters,bettering,bettered,betterment|More good than something else or than before.|9237d79a-223a-4801-96c3-65a3e66d706a|1|ˈbetə(r)|ˈbetər
+15878|158|happen|happens,happening,happened,happenings|To take place or occur|ca0cdabe-3755-4588-8ccf-4a33e2856d6e|1|ˈhæpən|ˈhæpən
+1094|159|run|runs,running,ran|move swiftly by foot|9b4f2bc9-8161-44e3-bf7e-dc86178fe2cb|1|rʌn|rʌn
+12778|160|which||Used to ask for specific information from a set of things or people.|d35e5290-dacd-4d5a-91df-e51674ce4224|1|wɪtʃ|wɪtʃ
+20455|161|everything||All things, all the things of a group or type|0993cf04-cb89-4dd3-88bf-05abecaf566d|1|ˈevriθɪŋ|ˈevriθɪŋ
+12477|162|believe|believes,believing,believed,believable|To think that something is true or real|3fd6c011-121d-4543-a00e-85e5d18e03f5|1|bɪˈliːv|bɪˈliːv
+3726|163|old|older,oldest,olds,oldies|having lived or existed for a long time|d3cb9d4f-8e78-4bf5-9392-cf02134a2d68|1|əʊld|əʊld
+9379|164|turn|turns,turning,turned|To rotate or revolve something|90eff001-1370-4320-b130-02be1bc76f99|1|tɜːn|tɜːrn
+19351|165|eye|eyes,eyeing,eyed|The organ of sight in humans and animals, which lets you see.|bf848c28-a31c-4c1c-8238-8d8d1d880802|1|aɪ|aɪ
+14718|166|mind|minds,minding,minded,weakminded|Part of a person that thinks, understands, learns, and remembers|4fa0c12d-7ca8-431a-9004-8c7807920330|1|maɪnd|maɪnd
+7993|167|lose|loses,losing,lost|to not be able to find something or someone|041296f6-cb1d-449f-a7f1-660b6efd47cd|1|luːz|luːz
+2985|168|stop|stops,stopping,stopped|To cease or cause to cease moving or operating|7e5c6ef8-b805-4ba2-a8da-1a9947f1c29c|1|stɒp|stɑːp
+13241|169|kind|kinds,kinder,kindest,kindly,kindness,kindnesses|a type or sort of something|00de2b81-e6fa-447d-a0f2-91670117c1a8|1|kaɪnd|kaɪnd
+6808|170|hand|hands,handing,handed|The end part of a person's arm including the fingers|ef8f36d1-f52b-4d5e-a9b0-894071890326|1|hænd|hænd
+20249|171|own|owns,owning,owned|To possess something or recognize something as belonging to you|ace94cdb-e9dd-4669-b611-407e19b2d392|1|əʊn|əʊn
+11650|172|write|writes,writing,wrote,written,writer,writers,writings,writerly,cowriting,cowriter|To make letters or numbers on a surface, especially with a pen or pencil|c9f1d149-e4af-4189-8a03-c5e02965e020|1|raɪt|raɪt
+2214|173|sure|surer,surest,unsure,surely,sureness|Certain, without any doubt|589d541d-3113-4efc-9b2a-a29f22fc0fd9|1|ʃɔː(r)|ʃʊr
+13031|174|please|pleases,pleasing,pleased,pleaser,pleasers|To make happy or satisfied|6639974e-b8e9-42b4-8696-f06dd7c9101c|1|pliːz|pəˈliːz
+4770|175|end|ends,ending,ended,ender,endings|The point where something stops or finishes|96e26181-5d90-4e13-86a8-e9cbdde4daff|1|end|end
+288|176|last|lasts,lasting,lasted,lastly|To be the most recent, the previous one|7518f4bb-ef2b-4692-8c90-65772e4e7ffc|1|lɑːst|læst
+1778|177|everyone|everybody|Each person|73c29099-daff-4f2f-b565-7e54f0ff4c1f|1|ˈevriwʌn|ˈevriwʌn
+13285|178|hold|holds,holding,held|To have something in your hand or arms|8a44c22f-2f82-4be1-a349-027dee75a292|1|həʊld|həʊld
+2303|179|anything||One thing (no matter what thing) of any type|2642b6f1-a2f0-449f-aeb1-b9cf4fa2cbe5|1|ˈeniθɪŋ|ˈeniθɪŋ
+19475|180|hard|harder,hardest,hardly,harding,hardness|Not soft|7737daf6-f779-4870-8e1e-85772247f859|1|hɑːd|hɑːrd
+20711|181|break|breaks,breaking,broke,broken,breakers,breaker,brokenness|To separate into pieces as a result of a blow, shock, or strain.|d342d183-1f6a-4113-80a2-881c0d01cf1a|1|breɪk|breɪk
+12189|182|change|changes,changing,changed,changeable,changeless|The act or instance of making or becoming different|d5c0ec0b-8780-4e34-b97c-df87a27c1179|1|tʃeɪndʒ|tʃeɪndʒ
+18129|183|most|mostly|The largest in number or degree|1d96aea7-6194-4243-9f5b-4aeb2832634f|1|məʊst|məʊst
+11108|184|sorry|sorrier,sorriest|Feeling regret or sadness because of something you did wrong or something bad that happened|9bf79a8e-9416-4443-b02d-514428473363|1|ˈsɒri|ˈsɑːri
+517|185|after|afters,afterward|Something happens after another thing means it happens later or after that thing.|cdc8fc57-b74c-4e95-9d18-dca2f2747b46|1|ˈɑːftə(r)|ˈæftər
+8885|186|move|moves,moving,moved,moveth,movable|Change position. You go from one place or one position to another|a91ef3bb-d447-471e-b125-738e34ec46b2|1|muːv|muːv
+9849|187|maybe||Possibly; could be|f16953a8-5944-4fd2-bd5f-b633f0fde12d|1|ˈmeɪbi|ˈmeɪbi
+16908|188|fuck|fucks,fucking,fucked|To have sexual intercourse with someone|47c5e268-768d-439b-89ee-00798daa783b|1|fʌk|fʌk
+7577|189|fall|falls,falling,fell,fallen|To drop down from a higher level to a lower level|6d8290a7-b6e5-4a44-b591-37e40b1c0be9|1|fɔːl|fɔːl
+2067|190|stay|stays,staid,stayed,staying|To continue to be in a place for a period of time|5c42fbb3-46db-406c-8ba2-91f49f466103|1|steɪ|steɪ
+3163|191|ask|asks,asking,asked|To say something to somebody as a question, wanting to get a piece of information|f62457cd-c243-45cc-aa8d-97374693a628|1|ɑːsk|æsk
+21702|192|head|heads,heading,headed,headless|The upper part of a human body that contains the eyes, nose, mouth, and brain|7bc76405-1dde-49bf-9d35-d62724beb023|1|hed|hed
+5773|193|best||Of the highest quality, or being the most suitable, pleasing, or effective type of thing or person|ccf3d04d-a2dd-4143-8ff3-1c0e1db30bfe|1|best|best
+3594|194|name|names,naming,named,namely,renamed,nameless|The word or words that a person, thing or place is known by|e3efd8f3-cd84-4cb7-8084-0c737275cd87|1|neɪm|neɪm
+10522|195|bring|brings,bringing,brought,bringers|To carry, guide, or lead something or someone to a place|697f54f4-b802-4302-815a-6b3e9fcd9dee|1|brɪŋ|brɪŋ
+4640|196|many||A large number of|6db91c7d-244f-448f-83bb-d7315ac45516|1|ˈmeni|ˈmeni
+2340|197|mother|mothers,mothering,mothered,motherly,mommy,momma,mommies,mom,motherless|A woman who has given birth to a child|35a0be7a-8992-4bef-a720-affe05eab656|1|ˈmʌðə(r)|ˈmʌðər
+9003|198|same|sameness|Being the exact or identical without any difference.|718c331d-6b35-4038-b5db-8d8b83e9199f|1|seɪm|seɪm
+3691|199|die|dies,dying,died|To stop living or existing.|00777628-7efc-4581-a146-999c3ed2c28a|1|daɪ|daɪ
+20753|200|dream|dreams,dreaming,dreamed,dreamt,dreamer,dreamers|A series of thoughts, images, and sensations happening in a person's mind during sleep|d27a0cd5-f927-43a2-9226-6c374486fe85|1|driːm|driːm
+344|201|kid|kids,kidding,kidded|A child or young person|becec8fd-2074-4bcf-b713-f79e8f00057e|1|kɪd|kɪd
+15332|202|light|lights,lighting,lighted,lit,lightly,lightness,lightest|Something that makes things visible or gives brightness|0176897a-c85d-4dfc-ad18-204fe366f5a9|1|laɪt|laɪt
+17083|203|body|bodies,nobody|The physical structure of a person or animal.|b0c43643-e13c-4e31-9b37-9c9e6ee28331|1|ˈbɒdi|ˈbɑːdi
+6118|204|another|nother|One more, additional|41fb6b19-08d1-4f9e-8fd9-a98ffa16f5b7|1|əˈnʌðə(r)|əˈnʌðər
+12227|205|face|faces,facing,faced|The front part of a person's head from the forehead to the chin.|97b34b03-6887-468a-976d-64400ad9c261|1|feɪs|feɪs
+10115|206|watch|watches,watching,watched,watcher,watchers,rewatching,watchable|A small portable device to tell time|b3439fce-0379-4f6d-823d-5f84ac49bf71|1|wɒtʃ|wɑːtʃ
+5791|207|walk|walks,walking,walked,walker|To move using your legs, at a slower pace than running.|7b7dce6d-1cfa-404c-bfa8-c6a3d696dd7c|1|wɔːk|wɔːk
+385|208|woman|women,womanly|An adult human female|6831cb8d-4dff-4752-a590-1a2434107d8d|1|ˈwʊmən|ˈwʊmən
+7647|209|meet|meets,met,meeting,meetings|To come face to face with someone by chance or arrangement.|b866f5e5-51a2-4bb6-9b0e-fd8aabb6cef4|1|miːt|miːt
+18166|210|left||On or towards the side of a human body or of a thing which is to the west when the person or thing is facing north|b1225fed-1445-4461-b99e-cc4eb936523b|1|left|left
+2559|211|bite|bites,biting,bit,bitten|To cut into something using your teeth|0e8d4df7-7064-44d4-87b6-3888c2c9fefe|1|baɪt|baɪt
+907|212|until|til,till|Up to the point or time mentioned|6e9cdd30-f202-47db-80b3-777a477764d1|1|ənˈtɪl|ənˈtɪl
+5523|213|myself||The speaker or writer referring to themselves|6193f88c-5e60-47fe-8780-ad46dcdf952c|1|maɪˈself|maɪˈself
+16261|214|real|unreal,realness|Actually existing as a thing, not imagined or pretended.|f9149489-4ac9-422f-a968-6544845683c5|1|rɪəl|ˈriːəl
+21069|215|must||Used to show that something is necessary or very important|a5882f14-70c6-45fe-b4a2-a885b72e6e9f|1|mʌst|məst
+12771|216|high|higher,highest,highs,highly,highness|At a great vertical distance above the ground or another point of reference.|6c44e428-8ddf-4e44-b352-f757a3d1732a|1|haɪ|haɪ
+13733|217|bad|badly,badness|Of poor quality or a low standard.|41fb64dc-3459-47a4-9dc8-04b2f3af131f|1|bæd|bæd
+8363|218|stand|stands,standing,stood|To be in an upright position on the feet|98432450-a371-4b79-b643-c3593e1277df|1|stænd|stænd
+1445|219|boy|boys|A child or teenager who is a male.|fdd63294-9a23-498d-a294-2dc513d2a79d|1|bɔɪ|bɔɪ
+22893|220|remember|remembers,remembering,remembered|To have in your mind an image, sound or information from the past|3db65f46-f9b3-4335-aef8-01ec76159a4c|1|rɪˈmembə(r)|rɪˈmembər
+11880|221|word|words,wording,worded,wordless|A set of letters or symbols written or spoken, which expresses a meaning|a8894446-b77f-4ae5-9eff-780cbc55f406|1|wɜːd|wɜːrd
+88|222|kill|kills,killing,killed,killings|To cause the death of a living being.|fec5aa1b-2f57-4f64-afd8-fc8056433132|1|kɪl|kɪl
+4055|223|money|moneyed,moneys,monies|A medium for exchange and purchase, often in form of coins and banknotes|7db71ff0-41aa-4e76-a8a9-a47badd8b527|1|ˈmʌni|ˈmʌni
+16008|224|bit|bits|A small piece or amount of something|4ab53f52-9c68-4f63-9950-decbe3fc66dd|1|bɪt|bɪt
+15069|225|part|parts,parting,parted,partly|A piece or segment of something.|969bc1be-d44e-499a-940e-4d4baec9cb19|1|pɑːt|pɑːrt
+11018|226|enough||In a quantity, amount, or degree that is sufficient or required|b078b4ac-201d-4910-af70-698996a75c47|1|ɪˈnʌf|ɪˈnʌf
+14625|227|without||Not having or including something.|7b779bf0-936e-455f-9113-2a4287a10d7e|1|wɪˈðaʊt|wɪˈðaʊt
+7027|228|care|cares,cared,uncared,uncare,uncares|The act of looking after someone or something|6f992041-403d-4000-8c1a-c3b2f9f7477f|1|keə(r)|ker
+14135|229|while|whiles,whiling,whiled,awhile,whilst|At the same time that|7541e5ca-5947-4fa1-a016-f40c423811b4|1|waɪl|waɪl
+22171|230|close|closes,closing,closed,closer,closest,closely,closeness|Located a short distance away|80d2c5c2-3879-4040-b1df-040c1f579e8b|1|kləʊz|kləʊz
+21161|231|understand|understands,understood,understanding,understandable,understandably|To know the meaning of something that someone says|70a3474d-00c4-4e2d-9d98-5234b1a544d3|1|ˌʌndəˈstænd|ˌʌndərˈstænd
+32634|232|three||The number that comes after two and before four.|c9c91cb4-3b79-469f-8bf9-c037d8b4e600|1|θriː|θriː
+16637|233|hope|hopes,hoping,hoped|To desire or wish for something to happen|e3baa9db-c670-46e6-8511-ae8a243a58ae|1|həʊp|həʊp
+8115|234|wrong|wrongs,wronging,wronged,wrongly,wrongness|Not correct or true.|c577b4a7-b66c-4157-a0df-5a09776551a4|1|rɒŋ|rɔːŋ
+15436|235|become|becomes,becoming,became|To start to be|6c065f2e-d449-4db2-8cd9-2a17220a069d|1|bɪˈkʌm|bɪˈkʌm
+7853|236|actual|actually|Existing in fact, not just in theory or imagination.|325410db-815f-4234-b1d6-4ffd6ab9ebb2|1|ˈæktʃuəl|ˈæktʃuəl
+6424|237|seem|seems,seeming,seemed,seemingly|To give the impression or sense of something, without necessarily being that thing.|02cb3e00-3516-400a-85b7-6de7b4be13c4|1|siːm|siːm
+6636|238|grow|grows,grew,grown,growing,growers|To become larger or taller over a period of time|0d750528-0d9c-4c2e-b690-620ee6f890d3|1|ɡrəʊ|ɡrəʊ
+12542|239|family|families,fam|A group of people related by blood, marriage, or adoption.|cf475603-ed7a-4b42-b608-defa26dda02c|1|ˈfæməli|ˈfæməli
+14540|240|together|togetherness|With each other or with another person or group at the same time.|022d8cd5-6d62-4567-b5f4-23177230bab6|1|təˈɡeðə(r)|təˈɡeðər
+7880|241|child|children,childs,childless|A young human, especially one before the age of adulthood|3cefee4a-f014-40f9-ba33-808a76c1f0dc|1|tʃaɪld|tʃaɪld
+23057|242|listen|listens,listening,listened,listener,listeners|to give attention to someone or something in order to hear them|c68eeb68-2a1f-4c62-af4c-f228fa17399c|1|ˈlɪsn|ˈlɪsn
+8571|243|true|truer,truest,truly,untrue|In accordance with fact or reality|b4c4e4ab-3bff-40fa-b58e-6370cfe03f10|1|truː|truː
+21031|244|lie|lies,lying,lain,lied|To be in a flat position on a surface|59eca840-a158-46b3-abc0-40d084ebade3|1|laɪ|laɪz,leɪ,leɪn,ˈlaɪɪŋ
+4377|245|nice|nicer,nicest,nicely,niceness|Pleasant or kind|eeca1c23-2c38-4f05-9453-26f873947315|1|naɪs|naɪs
+3372|246|house|houses,housing,housed|A building where people live.|7925c9fd-b4c0-48d6-b1e4-639f17886c7a|1|haʊs|haʊs
+3751|247|open|opens,opening,opened,reopen,openly,openness,openings,reopens,reopened|Not closed or locked; allowing entrance or passage.|4bd1e8cb-3f03-4202-8444-3976f53eb9c5|1|ˈəʊpən|ˈəʊpən
+11725|248|fight|fights,fighting,fought|An encounter where two or more people or groups engage in a violent conflict or struggle|a5aec3a7-320c-4767-9ccd-81049022c243|1|faɪt|faɪt
+11193|249|happy|happier,happiest,happiness,happily|Feeling or showing pleasure or satisfaction|9e68f0aa-ffbd-4024-8886-45f42067c4a2|1|ˈhæpi|ˈhæpi
+15054|250|different|differently|Not the same as another or each other; unlike in nature, form, or quality.|e8abccb5-3e5b-4168-a161-81efaf122650|1|ˈdɪfrənt|ˈdɪfrənt
+6878|251|its||Refers to a thing previously mentioned or easily identified.|2ed37bd4-5b68-47e1-8570-4b1b2b3ab563|1|ɪts|ɪts
+3927|252|next||Coming directly after the current one in order, sequence or time.|2063cc88-b942-4d8b-ad9d-0200fcb3f3b9|1|nekst|nekst
+373|253|whole|wholes,wholeness|Complete or full, with nothing missing or damaged.|6ce39d66-424a-43a6-b63b-72fcacf5de69|1|həʊl|həʊl
+19357|254|late|later,latest|happening after the expected, usual or planned time|7a37be9a-4f2d-4849-9fe6-080ef7c53241|1|leɪt|leɪt
+17080|255|else||Besides, in addition to what has been said|e246d50c-5416-44b0-92d0-01c03687d1d2|1|els|els
+22251|256|inside|insides|In or into the interior or inner part|7590bb59-7f29-4f9a-9a12-9c9ceef24af9|1|ˌɪnˈsaɪd|ˌɪnˈsaɪd
+23764|257|found|founded,founding,cofounded|To discover something by chance.|faa51fe4-4683-4028-8fc2-20a706684301|1|faʊnd|faʊnd
+14271|258|yourself|yourselves|Used to refer to the person you are talking to, as the object of a verb or preposition, when the person is also the subject of the verb.|c29d465b-8dc6-46f7-8f94-1d40c9d8f197|1|jəˈself|jɔːrˈself,jʊrˈself,jərˈself
+276|259|learn|learns,learning,learned,learnt,learner,relearn,relearning,learnings|To get knowledge or skill in a new subject or activity|0598e34c-6350-4a72-a6af-1e398a321971|1|lɜːn|lɜːrn
+18922|260|once||One time only|9af99fde-1480-4222-abf7-d39a600cb0cf|1|wʌns|wʌns
+10776|261|story|stories,storytelling,storyteller|A description of a series of events, can be real or imagined.|9312f5b6-ceba-47bf-9d17-c22b3100d09e|1|ˈstɔːri|ˈstɔːri
+3425|262|car|cars|A road vehicle, designed to carry a small number of passengers mainly on paved roads|034cdea6-5417-4e0e-833b-aa11f92b524f|1|kɑː(r)|kɑːr
+21026|263|fine|finer,finest,fines,fining,fined,finely|Very good or Excellent|934bbc43-6977-416c-a8ae-a912c30e6b9a|1|faɪn|faɪn
+22655|264|alone|aloneness|The only person or thing in a place or situation|ffd7cb7c-40df-40b8-9640-1aa7a333ee67|1|əˈləʊn|əˈləʊn
+8027|265|today||On or in the course of this present day.|1bc2a7e1-a257-41c2-afd8-453ea68e42d6|1|təˈdeɪ|təˈdeɪ
+4248|266|school|schools,schooling,schooled,schooler,schoolers|A place where children go to learn|41d3bb65-fac8-4435-86e9-eb80e296d011|1|skuːl|skuːl
+21864|267|job|jobs,jobless|A task or work done or to be done, especially paid work|54203cec-57e1-4ff6-9c0a-b1ff7f4913de|1|dʒɒb|dʒɑːb
+12505|268|pretty|prettier,prettiest|Quite, but not extremely.|3daed983-dd25-49c9-8121-8b95bcaa1551|1|ˈprɪti|ˈprɪti
+21073|269|sit|sits,sitting,sat|To place the body down on a chair or other place to rest|bddb35ec-7aca-4a96-8c22-2dcba9fec117|1|sɪt|sɪt
+19381|270|idea|ideas|A thought, plan, or suggestion about what to do|9fdfee73-17b5-4c2c-a272-ec642a6f60b6|1|aɪˈdɪə|aɪˈdiːə
+16653|271|sound|sounds,sounding,sounded,sounder,soundest,soundly,soundness,soundless|Anything you hear|4199ecd9-291c-48c5-9da4-f14a57e5406a|1|saʊnd|saʊnd
+467|272|music|musics|Sounds that are made in a way that is pleasing to listen to|cf06d769-5f98-40d1-9ee4-1291ca9ed02c|1|ˈmjuːzɪk|ˈmjuːzɪk
+2266|273|song|songs,songwriter,songwriters,songwriting|A piece of music with words that is usually sung with instruments or a choir.|bdffae52-3562-499e-8e13-277287cb5699|1|sɒŋ|sɔːŋ
+18313|274|anyone|anybody|Any person or people, without specification|70fa03d9-0fd6-46b3-b793-f11b4a712e55|1|ˈeniwʌn|ˈeniwʌn
+292|275|far|farther,farthest|At or to a great distance|7c89c023-4251-4c78-8ae1-471b3ed7e030|1|fɑː(r)|fɑːr
+426|276|young|younger,youngest|Having little life or world experience, not being old|8eb167a0-2864-4dbd-afeb-e78288137836|1|jʌŋ|jʌŋ
+4742|277|sing|sings,singing,sang,sung|To make musical sounds with your voice|5d9a63b5-ef37-473d-9ddd-dca4e5502267|1|sɪŋ|sɪŋ
+17316|278|room|rooms,rooming,roomed,workroom|A part of a building that is enclosed by walls and usually has a door|43cc33ae-ad8f-4d9b-ba27-bbf3f253cc35|1|rʊm|ruːm
+17419|279|set|sets,setting,setter,setters|To put or place something in a particular position|359e6671-e56c-4dfc-a31d-264f4f6cb948|1|set|set
+4858|280|read|reads,reading,reader,readers,readings,rereading,unread,readable|To look at words and understand what they mean.|efc5f75f-2c3b-43b1-8c29-65d5de6fc414|1|riːd|red
+2292|281|side|sides,siding,sided|The left or right part of a body or thing|858db2b6-f540-4b1c-a0ba-fe8bf4d0af2d|1|saɪd|saɪd
+16018|282|game|games,videogames,gaming,gamer,gamers|An activity you play for fun or sport, usually following rules|85f54f92-43dc-4fb0-ba95-7c9597364324|1|ɡeɪm|ɡeɪm
+943|283|each||Used to say that something happens or applies to every person or thing in a group separately, one after the other.|b6d2c17c-26dc-4092-a111-abc4ab9844d0|1|iːtʃ|iːtʃ
+23731|284|easy|easiest,easier,easily|Not difficult; something can be achieved or understood with little effort|3e9fec82-eb1d-48c0-bb5b-432b98f6429c|1|ˈiːzi|ˈiːzi
+17471|285|matter|matters,mattering,mattered|A topic or issue to talk, think, or deal with|27cebc71-f630-4fc5-9b0d-2228f064f5e3|1|ˈmætə(r)|ˈmætər
+7848|286|free|frees,freeing,freed,freer,freest,freely,freeman,freemen|Not under the control or power of another; able to do what you want.|dc6768d4-b432-4745-9a07-8367d471acb5|1|friː|friː
+14773|287|dead|deadly,deadness,deadliest,undead|Not alive anymore|564df616-adfa-4dec-9ee2-cfa726beb4ed|1|ded|ded
+479|288|line|lines,lining,lined,linings|A long, narrow mark or band|170b22f8-2171-42ac-b30a-dd1c76d6c1af|1|laɪn|laɪn
+11764|289|also||In addition; too|3e6a6b01-245e-4a5c-8ee6-319cefdfc85d|1|ˈɔːlsəʊ|ˈɔːlsəʊ
+1909|290|fire|fires,firing,fired|A process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke.|63b9aca1-c35e-4600-9596-28876a2f5f46|1|ˈfaɪə(r)|ˈfaɪər
+9864|291|forget|forgets,forgetting,forgot,forgotten,forgettable,unforgettable|not to remember something|47db8401-e9bf-431e-a65b-d6b530b86cda|1|fəˈɡet|fərˈɡet
+1098|292|shit|shits,shitting,shat|Refers to feces, the waste product from an animal's digestive tract.|b10de006-8555-4b47-9787-0bebfd59ee02|1|ʃɪt|ʃɪt
+3811|293|sometime|sometimes|At an unspecified time in the future|a18ceeaa-f885-4afa-ae0f-745c0797c38f|1|ˈsʌmtaɪm|ˈsʌmtaɪm
+14747|294|dark|darker,darkest,darkly,darkness,darks|Having little or no light|d7577e58-c81c-45c9-9ca2-33e14138dfc2|1|dɑːk|dɑːrk
+23084|295|such||Of the type previously mentioned|5195398b-91f8-404f-ad6a-125b10c07f27|1|sʌtʃ|sʌtʃ
+22144|296|pay|pays,paying,paid,payer,payers|To give money in exchange for goods, services or to settle a debt.|53cec10f-74d8-4783-a4ad-b55f2e98b675|1|peɪ|peɪ
+1808|297|sleep|sleeps,sleeping,slept,sleeper,sleepless|The natural resting state in which your body is not active and your mind is unconscious.|560adc22-0aa7-41ad-8820-018506b01df8|1|sliːp|sliːp
+8297|298|eat|eats,ate,eaten,eating,eater,eaters|To put food in your mouth and chew and swallow it|e06f09bc-87c6-4e67-81a1-9cd97b92c9cc|1|iːt|iːt
+8309|299|tonight||This evening or night|107ef150-5e70-4624-ab3c-9294d7462b58|1|təˈnaɪt|təˈnaɪt
+953|300|win|wins,winning,won|To achieve victory in a game, competition, or other event.|821b70f8-2d77-4d45-b639-6a6d22f3c9a7|1|wɪn|wɪn
+7947|301|drink|drinks,drinking,drank,drunk,drinker,drinkers,drinkable|To take in liquid through the mouth|079e3f9f-92e9-444d-bcdb-868acf8bea38|1|drɪŋk|drɪŋk
+14139|302|door|doors|A movable piece that covers an entrance to a building, room, or vehicle, or the entrance itself.|e45f46a7-81de-4962-b337-abe5340a6bb1|1|dɔː(r)|dɔːr
+10421|303|morning|mornings|The time from dawn to noon.|68386ca6-6a7a-4f73-9068-df24006ac358|1|ˈmɔːnɪŋ|ˈmɔːrnɪŋ
+18518|304|minute|minutes,minuting,minuted,minutest,minutely|A period of time equal to sixty seconds or one-sixtieth of an hour.|899d2038-c48f-4a88-9193-4c3b474f00a5|1|ˈmɪnɪt|ˈmɪnɪt
+20675|305|point|points,pointing,pointed|A certain spot or position|0eb9144d-6ca2-45a2-bb97-0a83a09eeed7|1|pɔɪnt|pɔɪnt
+16594|306|speak|speaks,spoke,spake,spoken,speaking,unspoken|To say something in order to express your ideas or feelings.|703a6369-3397-4377-ba29-aa8d6de21d14|1|spiːk|spiːk
+17811|307|ready|readies,readying,readied|Fully prepared for an action or situation|43a2c60c-f143-4d48-98c6-15d04b6f9529|1|ˈredi|ˈredi
+21811|308|dance|dances,dancing,danced|To move your body in a way that goes with the rhythm and style of music that is being played|45b8800e-7f0c-4904-918a-57e30723ecf7|1|dɑːns|dæns
+23732|309|problem|problems|Something that is difficult to deal with or understand.|cdbbfe25-05d7-451f-924e-188398072721|1|ˈprɒbləm|ˈprɑːbləm
+21739|310|guess|guesses,guessing,guessed|To form an opinion or estimate something without accurate information.|a3c7ab18-0ea1-4648-a057-a4ca700b099b|1|ɡes|ɡes
+20324|311|book|books,booking,booked,booker,bookings|A set of written, printed, or blank pages fastened along one side and encased between protective covers.|25dae23c-4cba-4b29-82b1-75051246068d|1|bʊk|bʊk
+20613|312|course|courses,coursing,coursed|The route or direction followed by a ship, aircraft, road, or river|69d30fab-6eb1-47a5-b505-25f4216135f1|1|kɔːs|kɔːrs
+8049|313|cry|cries,crying,cried|to shed tears, especially because of sadness or pain|799184e7-5662-4234-ad28-ffaad2b58e22|1|kraɪ|kraɪ
+6156|314|drive|drives,driving,drove,driven,driveway|To control and guide the movement of a vehicle|d7645102-1fc9-4211-b776-4a79dfea172c|1|draɪv|draɪv
+7338|315|both||Used to show that you are referring to two people or things together|4d88bd3a-f0cc-4681-9fec-340e9e882a61|1|bəʊθ|bəʊθ
+7184|316|black|blacker,blackest,blacks,blacking,blacked,blackness,blackish|The darkest color, opposite of white.|9cc68672-625f-40e2-b071-1ed32fe27970|1|blæk|blæk
+14629|317|hour|hours,hourly|A period of time equal to 60 minutes.|e106894d-2d0f-407f-bc46-cc1a1584b68a|1|ˈaʊə(r)|ˈaʊər
+11408|318|cause|causes,causing,caused|The reason something happens or exists.|be3489cb-babe-46a9-9f49-832adde49d10|1|kɔːz|kɔːz
+2702|319|important|importantly,importance,unimportant|Being of great significance or value|b7874512-abf0-477a-93be-7fb406dab70e|1|ɪmˈpɔːtnt|ɪmˈpɔːrtnt
+13171|320|stuff|stuffs,stuffing,stuffed|Materials, supplies, or things that you need for something.|8e3b30a0-5a80-4ed8-b51d-a6cabda1b201|1|stʌf|stʌf
+5111|321|though||Used to introduce a contrast with what has been mentioned before|767f9156-bcbe-429a-9347-5b42399cea22|1|ðəʊ|ðəʊ
+20991|322|shoot|shoots,shooting,shot,shootings|to fire a bullet from a gun or similar weapon|b645b923-7290-4bd2-aeb2-c47742cd1dad|1|ʃuːt|ʃuːt
+7046|323|second|seconds,seconding,seconded,secondly|A measurement of time, one of 60 parts of a minute.|19fbd052-26a9-406b-8bae-be80c69b85ee|1|ˈsekənd|ˈsekənd
+22072|324|since||From a past time until now|7cb95e27-7f76-4884-aaf6-c1d7fb1696f4|1|sɪns|sɪns
+3356|325|under||Located below or lower than something else|9a86feef-7436-40b4-8296-6e3f84628f75|1|ˈʌndə(r)|ˈʌndər
+11949|326|fun||Enjoyment, amusement, or light-hearted pleasure|26205a2a-2e80-48fa-bdf2-30712869eb3b|1|fʌn|fʌn
+22802|327|reason|reasons,reasoning,reasoned|The cause or explanation for something that happens or is done|8691407a-7434-45aa-9d43-3c20fe98076b|1|ˈriːzn|ˈriːzn
+5580|328|save|saves,saving,saved,savings,savor|To stop someone or something from being hurt, damaged, or destroyed|197946a0-7b9c-4f65-bd71-019fcdfa0612|1|seɪv|seɪv
+11069|329|soul|souls|The spiritual part of a person that is believed to give life to the body and in many religions is believed to live forever|82805689-3e7a-40df-bf33-bf07bb343bcb|1|səʊl|səʊl
+1487|330|hit|hits,hitting|To strike or cause harm to something or someone|308aae1f-a027-4b65-92ad-461aa838ed77|1|hɪt|hɪt
+8727|331|burn|burns,burning,burned,burnt|To produce flames and heat while being consumed by fire.|f5387ae5-ff40-4c88-bc64-7b0f0d12aea7|1|bɜːn|bɜːrn
+13168|332|dad|dads|A male parent|c4708a31-0b4e-4395-9c71-3b9644012dd6|1|dæd|dæd
+7047|333|power|powers,powering,powered,powerless|The ability or capacity to do something or perform|45a387c8-56f6-4ab7-b58f-1af8866b07d7|1|ˈpaʊə(r)|ˈpaʊər
+8602|334|father|fathers,fathering,fathered,fatherly,fatherless|A man who has children.|f2667bda-8851-4997-8ff9-b9fa72b383b3|1|ˈfɑːðə(r)|ˈfɑːðər
+23736|335|miss|missed,misses|Fail to hit, reach, or come into contact with something|f88a88bc-2f8e-4507-8e4f-17ee6f9bc65b|1|mɪs|mɪs
+1143|336|mine|mines,mining,mined|Something that belongs to me|f09e15cc-1a76-492c-b713-b2245e43d062|1|maɪn|maɪn
+10492|337|wish|wishes,wishing,wished|To want something to happen or to be true|46e8e6c9-5a63-4017-938c-1d241188323c|1|wɪʃ|wɪʃ
+7239|338|between||In the middle of two points, objects, or places|ef33c0d8-46c6-4fe0-93f3-730895f2a92d|1|bɪˈtwiːn|bɪˈtwiːn
+2987|339|moment|moments|A very short period of time.|ad2dc9d1-2ded-41e7-9d04-41a1bc9a6be4|1|ˈməʊmənt|ˈməʊmənt
+7747|340|week|weeks,weekly|A period of seven days, often starting from Monday and ending on Sunday.|35813d02-c11f-4586-9388-8368f083dd3d|1|wiːk|wiːk
+12425|341|strong|stronger,strongest,strongly|Having a lot of physical power, able to carry heavy objects or move heavy things.|2c854c51-8f1e-4c7e-8bcc-626ff9495a08|1|strɒŋ|strɔːŋ
+2383|342|act|acts,acting,acted|Something that someone does|bea2f206-fc77-40de-ad38-248e44a4f28f|1|ækt|ækt
+6084|343|worry|worries,worrying,worried|To feel uneasy or anxious about something that might or has happened|86eb0be5-fea9-45fc-be9b-a6b9a56ee441|1|ˈwʌri|ˈwɜːri
+18331|344|beautiful|beautifully|something or someone that looks very good|253e87af-f4a7-4e28-8ba4-4aa7229ed71e|1|ˈbjuːtɪfl|ˈbjuːtɪfl
+19685|345|spend|spends,spending,spent,spender,spenders|To use money to buy or pay for something|142c3d8e-44f0-46c7-97b9-d21d253b86d7|1|spend|spend
+6509|346|human|humans,humanly,humanness|A person, a member of the species Homo sapiens|08c95f48-3249-43d9-a23d-7e4c33d46ccf|1|ˈhjuːmən|ˈhjuːmən
+15179|347|probably|probable|it's likely to happen or be true|5c13ea5f-6e2f-4330-9d99-36483e2b6a3c|1|ˈprɒbəbli|ˈprɑːbəbli
+4632|348|water|waters,watering,watered,waterless|A colorless, transparent liquid that rain consists of, and that oceans, lakes, and rivers are made up of|997e8b66-acb9-48be-a770-1324d6133732|1|ˈwɔːtə(r)|ˈwɔːtər
+10155|349|behind|behinds|At or towards the back of a place, person, or thing|5a53bd66-58f4-48e3-8303-40fbb4fc2751|1|bɪˈhaɪnd|bɪˈhaɪnd
+21390|350|hate|hates,hating,hated,haters|To feel intense dislike for something or somebody|913c24ee-5fed-4391-b694-f92db177d46c|1|heɪt|heɪt
+14901|351|few|fewer,fewest|Not many but more than one|4338a3b9-0d2c-4018-8f6a-e177dea238f7|1|fjuː|fjuː
+20899|352|yet||Up until now or at the time being spoken about|e8647dde-c91f-4704-a243-ed9d9d2f9dfd|1|jet|jet
+19162|353|truth|truths,untruth|The actual state of a matter or a fact|91407fdc-a37d-433b-8435-bd6ff64d5549|1|truːθ|truːθ
+1148|354|movie|movies|A film that tells a story, usually shown in a cinema or on television|c05bcd5c-7a37-4ecc-8df0-bcfdda271c4a|1|ˈmuːvi|ˈmuːvi
+15216|355|full|fuller,fullest,fullness,fully,fulness|Containing or holding as much or as many as possible; having no empty space|84b44fd5-66d0-479d-b618-25f22a205e81|1|fʊl|fʊl
+21692|356|brother|brothers,brethren,brotherly,bro,bros|A man or boy who has the same parents as another person.|f4d38d15-4597-4737-b884-e7de5ff6f203|1|ˈbrʌðə(r)|ˈbrʌðər
+22967|357|deep|deeper,deepest,deeps,deeply|A large distance from the top or surface to the bottom or far into something.|e2b57604-ac6b-41ac-a547-527e590fa539|1|diːp|diːp
+16289|358|wear|wears,wearing,wore,worn,wearer,workwear|To have clothing, jewelry, or accessories on your body|c98cf95a-1e38-444c-a495-8e86b6b9b1ff|1|weə(r)|wer
+6721|359|business|businesses|A person's regular work or trade|ebe1077a-41da-4fa1-b264-0275eecaf50d|1|ˈbɪznəs|ˈbɪznəs
+13254|360|star|stars,starring,starred,starless|A bright point in the night sky that is very far away and made of gas|3b99e0d2-174f-498f-86fd-f8e1637931e4|1|stɑː(r)|stɑːr
+532|361|whatever|whatsoever|Any thing or things, no matter what|77070a5b-3f33-4034-af0f-8df4d6d840dd|1|wɒtˈevə(r)|wətˈevər
+17240|362|buy|buys,buying,bought,buyer,buyers|To get something by paying money for it.|520de066-2bd6-4f2f-ba80-2a4a09b47c1d|1|baɪ|baɪ
+6994|363|question|questions,questioning,questioned|A statement that seeks an answer|6c9678a5-0f59-4e90-b195-1173295404db|1|ˈkwestʃən|ˈkwestʃən
+15250|364|country|countries|A large area of land with its own government, language, and traditions|6ed731a9-abf8-455b-b042-57cf2f6c85a6|1|ˈkʌntri|ˈkʌntri
+20628|365|plan|plans,planning,planned|A detailed proposal for doing something|9400d7b7-c746-474a-9b35-7ea1c6436540|1|plæn|plæn
+2032|366|send|sends,sending,sent,sender|To cause something to go from one place to another|b0152561-62d9-46d4-bc63-0310a41174a6|1|send|send
+2572|367|fly|flies,flew,flied,flown,flying|to move through the air|c3b02a2e-85f9-4226-b731-c3a88a8d36be|1|flaɪ|flaɪ
+5738|368|quite||to some extent; fairly|0b339005-0359-4747-86ec-3012640c2d2f|1|kwaɪt|kwaɪt
+16921|369|catch|catches,catching,caught,catcher,catchers|To stop and hold something that is moving through the air|637031dd-c909-4766-a102-ddc684896648|1|kætʃ|ketʃ
+12064|370|teach|teaches,teaching,taught,teacher,teachers,teachings,teacheth,teachable|To give knowledge, skills or information about something.|fdca74bc-ab07-464e-b223-4daefd17fa96|1|tiːtʃ|tiːtʃ
+15959|371|death|deaths,deathly|The end of life of a person or creature.|e60e8852-8118-4a87-8150-2bc8bca82f48|1|deθ|deθ
+3804|372|cool|cooler,coolest,cools,cooling,cooled,coolly,coolness,coolers,uncool|A little cold, but not very cold|24c18834-8798-409d-8972-c851b344a298|1|kuːl|kuːl
+1935|373|chance|chances,chancing,chanced|The possibility of something happening|8d349d57-8092-460a-bc8f-dcbc362f1f67|1|tʃɑːns|tʃæns
+29649|374|five||The number after four and before six.|0d1126a0-64e3-4a71-859b-be0c17bb962e|1|faɪv|faɪv
+6749|375|hurt|hurts,hurting|To cause pain or injury to someone or something|14b33ff3-67d9-476e-9943-ec9e3863401d|1|hɜːt|hɜːrt
+15770|376|clear|clearer,clearest,clears,clearing,cleared,unclear,clearly,clearness|Easy to notice or understand|3b806c66-f176-45f6-b8f8-1c8d6c8288d0|1|klɪə(r)|klɪr
+19058|377|war|wars,warring,warred|A fight or conflict between countries or groups within a country.|50bdb9bd-9cb9-4cc0-b832-a1dedc6ad11b|1|wɔː(r)|wɔːr
+436|378|hide|hides,hiding,hid,hidden|To put or keep something in a place where it cannot be seen or found.|bad6856c-8ad2-4dae-9b5b-c41558f0b006|1|haɪd|haɪd
+4484|379|son|sons|A boy or man in relation to his parents|6f0fc058-e465-4402-a396-349794405c86|1|sʌn|sʌn
+12358|380|deal|deals,dealing,dealt,dealings|An agreement between two or more people or groups|c1b20aaa-581c-4adb-b5dd-ff5a35709733|1|diːl|diːl
+12665|381|touch|touches,touching,touched|to put your hand or fingers onto an object or surface|7bf8dfef-f45d-40c1-9a1d-c59762c0f9d9|1|tʌtʃ|tʌtʃ
+2157|382|follow|follows,following,followed|To go or come after a person or thing in motion|01575a03-5599-48f3-b203-72bbbc0e6547|1|ˈfɒləʊ|ˈfɑːləʊ
+11363|383|fear|fears,fearing,feared|The feeling you have when you are scared or worried about something.|d1455d0b-1427-4d4d-a912-434e42420449|1|fɪə(r)|fɪr
+15570|384|sweet|sweets,sweeter,sweetest,sweetly,sweetness|Sugary or honeyed, having a taste like sugar or honey.|80b41864-580c-408c-bbf7-6a82f9027fe0|1|swiːt|swiːt
+4010|385|soon|sooner,soonest|in a short time, almost immediately|84d871eb-8772-4595-bed9-766e30b3f002|1|suːn|suːn
+22839|386|cut|cuts,cutting,cuttings,uncut|To divide or make an opening in something using a sharp tool.|e3a36ebe-26f6-4d5d-97f6-b6136bfd293d|1|kʌt|kʌt
+20429|387|sun|suns,sunning,sunned,sunless|The star that the earth goes around, the centre of our solar system|e73eb5c0-ce5d-4a76-b95e-5974f4a0eaeb|1|sʌn|sʌn
+14323|388|crazy|crazier,craziest,crazies|Showing wild and uncontrollable behaviour or excitement|4ab3c9ac-f2b0-4f6d-9c07-2695d50f6c1d|1|ˈkreɪzi|ˈkreɪzi
+20157|389|foot|feet,foots,footing,footed|The lower extremity of the leg below the ankle, on which a person stands or walks|18dd1d40-a151-479d-829c-a6e85fa497c8|1|fʊt|fʊt
+948|390|mom|moms|Another term for mother|4b0afabb-97f2-4b44-8156-39d53a25c20b|1|mɒm|mɑːm
+8185|391|hello|hellos,hullo|A greeting or expression of goodwill|e51e7ad6-9e32-4c34-a693-47e5ea7c2cc6|1|həˈləʊ|həˈləʊ
+22845|392|already||Used to show something has happened before the present time or earlier than expected|4b841a00-01c2-4cc7-9bcd-343a09f65f58|1|ɔːlˈredi|ɔːlˈredi
+7045|393|film|films,filming,filmed,filmmaking,filmmaker|A story or event recorded by a camera as a set of moving images and shown in a theater or on television|23b339c4-eec9-488d-9fb0-af547ee7f153|1|fɪlm|fɪlm
+29740|394|four||The number equivalent to the product of two and two; one more than three, or six less than ten; 4|061fb5f0-c45c-4c11-94eb-bf7b702bbe9e|1|fɔː(r)|fɔːr
+22536|395|pull|pulls,pulling,pulled|To use force to move something towards yourself|393c026d-77dd-41a9-a68c-21eed970499d|1|pʊl|pʊl
+19811|396|tear|tears,tearing,tore,torn,teardrop,teardrops|Pull or rip something apart|e3a5aba7-d197-41ff-9f32-4ed336559c69|1|teə(r)|ter,terz,tɔːr,tɔːrn,ˈterɪŋ
+20937|397|final|finals,finally|the last in a series or the ultimate version of something|0f3b9961-6401-4777-91db-fa670b3d94e2|1|ˈfaɪnl|ˈfaɪnl
+9465|398|perfect|perfects,perfecting,perfected,perfectly|Having no mistakes or flaws.|ee5a145d-04e9-4134-8ddc-fed4d3185aa8|1|ˈpɜːfɪkt|ˈpɜːrfɪkt
+8392|399|town|towns,hometown|A large place where people live and work, larger than a village but smaller than a city.|8784bad3-efc1-492f-bc21-004fc24b85e4|1|taʊn|taʊn
+17620|400|hell|heller,helluva,hells|A place where bad people are believed to be sent after they die, in some religions|fdd42274-0ea3-49c1-8113-17b260e367f1|1|hel|hel
+22283|401|sky|skies|The area above the earth, where clouds, the sun, the moon, and stars can be seen.|7d7c3ca6-c0e6-4a3f-871a-701490fd1c53|1|skaɪ|skaɪ
+17836|402|blood|blooded,bloods|The red liquid that flows through the bodies of people and animals|a431e6f6-433a-42ae-9e30-6ea361e579f2|1|blʌd|blʌd
+19893|403|number|numbers,numbering,numbered|The word used to count or measure something.|5bcfef21-0465-47b1-b196-7c2df98cb2af|1|ˈnʌmbə(r)|ˈnʌmbər
+1587|404|pain|pains,paining,pained,painless|A strong unpleasant feeling in a part of the body, often caused by injury or illness|2391e0f3-2096-472e-a48a-1124207bc4b7|1|peɪn|peɪn
+9095|405|lead|leads,leading,led|The position or advantage of being in front|d72c28d9-5502-4e68-9018-4137e1e91cbd|1|liːd|led
+17736|406|ride|rides,riding,rode,ridden,rider,riders|To sit on and control the movement of a vehicle or an animal, especially a horse|238d2204-465e-4b2d-affb-7c10e9f5d954|1|raɪd|raɪd
+16870|407|pick|picks,picking,picked,picker|To choose or select|c6662624-fead-4c71-89d6-c1de343a966e|1|pɪk|pɪk
+2212|408|cold|colder,coldest,colds,coldly,coldness|Having a low temperature|cbd4c79f-db9c-42c9-ab5c-166cf7672600|1|kəʊld|kəʊld
+16175|409|hang|hangs,hanging,hanged,hung|To suspend from above with the lower part not attached or not reaching the ground|4cb90a7b-95f9-4bc7-b5b1-b6d9a0535431|1|hæŋ|hæŋ
+7084|410|throw|throws,throwing,threw,thrown|To send something through the air using the arm and hand|a9c30833-0da3-4ab1-b4e6-2eff56986feb|1|θrəʊ|θrəʊ
+2909|411|able|abler,ablest|Having the power, skill, means, or opportunity to do something|6f2b2642-0820-47bb-8f3b-7d56f91988a5|1|ˈeɪbl|ˈeɪbl
+20375|412|sense|senses,sensing,sensed|The ability to feel, see, hear, smell, or taste|5b7638e8-310b-480f-b019-297d4e80ea14|1|sens|sens
+7415|413|control|controls,controlling,controlled|The power to make decisions or direct things.|c2915bf5-2054-4b4d-8e53-a8b2ccbd1ff7|1|kənˈtrəʊl|kənˈtrəʊl
+17348|414|pass|passes,passing,passed,passer|To move or go by a certain place, person or thing|231a1be4-36f2-4d8f-aa77-7119dd09a3ca|1|pɑːs|pæs
+8631|415|suppose|supposes,supposing,supposed|To believe that something is probably true|902a989e-cb49-4789-825f-75e375857e86|1|səˈpəʊz|səˈpəʊz
+19905|416|beat|beats,beating,beaten,beatings|To hit repeatedly|306e31ac-f5df-4041-a1ea-a06713b210c7|1|biːt|biːt
+14195|417|party|parties,partying|A gathering of people for entertainment or celebration|1cca2239-04d8-41b1-bece-9c8d6f8b1ac4|1|ˈpɑːti|ˈpɑːrti
+3509|418|fact|facts|Something known to have happened or to exist|3755b673-3f1e-4f9e-8d5f-fa73bfb22edd|1|fækt|fækt
+79|419|white|whiter,whitest,whites,whiteness|The color of snow or milk, the opposite of black.|24d1e58a-622d-40d2-b4fe-19f40ffcf6bc|1|waɪt|waɪt
+1470|420|street|streets|A public road in a town or city, typically with houses and buildings on one or both sides.|36f749fd-1f33-4964-bf2d-10d0cc7dc6cb|1|striːt|striːt
+15946|421|sort|sorts,sorting,sorted|A type or kind of something|16039560-a312-4a62-a7d9-8eee430e28b1|1|sɔːt|sɔːrt
+11746|422|begin|begins,began,begun|To start, commence, or initiate something|29d340d3-cd8a-42f2-992f-a0a0300a927e|1|bɪˈɡɪn|bɪˈɡɪn
+5095|423|against||In opposition or resistance to|32135621-b281-4707-8bfc-2a178d1edef1|1|əˈɡeɪnst|əˈɡenst
+10997|424|fast|faster,fastest,fasts,fasting,fasted|quickly or in a hurry|3a547da3-c3a4-4f2a-bbdb-016e8c008c18|1|fɑːst|fæst
+718|425|top|tops,topped|The highest point or part of something|7d633684-e281-4c28-96cf-ed5944060609|1|tɒp|tɑːp
+10441|426|step|steps,stepping,stepped|A movement made by lifting your foot and putting it down in a different place.|072732d3-a3d5-497a-a23c-e486ac2d122b|1|step|step
+20770|427|rest|rests,resting,rested|A period of time when you stop working and relax or sleep|db6afbce-8e0d-47b9-84ea-73f069db50ee|1|rest|rest
+11595|428|check|checks,checking,checked,paycheck|To make sure that something is correct, safe or in order.|3358b0cb-8094-47da-81a8-349bd29dc7f1|1|tʃek|tʃek
+9714|429|past|pasts|To the other side or beyond a certain point|a3ba95da-2d50-44c4-b116-182ecd760af9|1|pɑːst|pæst
+6935|430|kiss|kisses,kissing,kissed,kisser|To touch with the lips as a sign of love, sexual desire, reverence, or greeting.|8e2d807d-2f0e-48e4-9049-8a6ed8896061|1|kɪs|kɪs
+19961|431|wonder|wonders,wondering,wondered|A feeling of amazement caused by something beautiful or surprising.|a31a2259-9703-4eee-862a-f9e3aaa5395c|1|ˈwʌndə(r)|ˈwʌndər
+14957|432|create|creates,creating,created,cocreated,cocreate,recreate|To make something new|a52e3d83-edb6-4339-90c4-5ea611821445|1|kriˈeɪt|kriˈeɪt
+19042|433|city|cities|A large town that is important and has many buildings and people|350e84af-95ca-4862-8878-0388d8b1d751|1|ˈsɪti|ˈsɪti
+9233|434|forever||Without ever ending or stopping|7effc1b3-ef2f-46d8-b86d-3e2495c852e9|1|fərˈevə(r)|fərˈevər
+8225|435|certain|certainly,uncertain|Known but not named.|fdbc68d0-9f10-4fe8-a072-b9ca42c61ac4|1|ˈsɜːtn|ˈsɜːrtn
+6989|436|wake|wakes,woke,waked,woken,waking|To stop sleeping and become conscious again.|69aa94f9-9fd7-4e47-b4c0-5afc3c13127f|1|weɪk|weɪk
+17467|437|realize|realizes,realizing,realized,realises,realising,realised,realise|To understand something for the first time or suddenly|14b880d5-5762-4ac4-af26-0981130b1ab6|1|ˈrɪəlaɪz|ˈriːəlaɪz
+18383|438|blue|bluer,bluest,blues,blueing,blued,blueness|Having the same color as a clear daytime sky|2f9d863d-1e92-42e7-926a-0b9c9aaae6de|1|bluː|bluː
+3446|439|phone|phones,phoning,phoned|A device that you can talk to other people from far away with|d5754826-2767-4368-b808-09a88950b30e|1|fəʊn|fəʊn
+5423|440|half|halves|One of two equal or nearly equal parts into which anything is or may be divided.|6dbe105c-8986-4da9-a512-768da8dadb2a|1|hɑːf|hæf
+15990|441|lady|ladies|A polite or formal way to refer to a woman|8ba9ec5f-d5ba-458b-bf21-675a5e6b5e7b|1|ˈleɪdi|ˈleɪdi
+1527|442|arm|arms|The part of the body that is joined to the shoulder and which ends at the hand.|5ba30ddc-4f4c-4d06-9060-9a411f9c76e6|1|ɑːm|ɑːrm
+14703|443|build|builds,built,builded|To construct something by putting parts or materials together|5682ce0e-d3fa-480e-b230-b4c03ae01708|1|bɪld|bɪld
+22710|444|promise|promises,promising,promised|A statement telling someone that you will pefinitedefinitely do something or something will happen|31b7898b-f8d5-4a93-a88c-cf025210f771|1|ˈprɒmɪs|ˈprɑːmɪs
+21871|445|almost||Nearly, not completely or not exactly|d17970d5-ea67-4400-99f7-65e1095b1245|1|ˈɔːlməʊst|ˈɔːlməʊst
+19875|446|small|smaller,smallest,smalls,smallness|Less in size than others of its kind.|5ceeb45c-cb3e-43d3-a2f1-f123788e1694|1|smɔːl|smɔːl
+10579|447|road|roads|A long, hard surface built for vehicles to travel along|ebe13ee7-5edb-48e0-a65e-ed62afacd52c|1|rəʊd|rəʊd
+18123|448|sir|sirs|A polite way to talk to or about a man, especially one in a position of authority.|9f8a4975-3604-4d61-81ee-18442c699597|1|sə(r)|sɜːr,sər
+9196|449|slow|slower,slowest,slows,slowing,slowed,slowly,slowness|Taking a long time to move or act|a05b82dd-678f-4614-9b75-640a485d9a5c|1|sləʊ|sləʊ
+19815|450|case|cases,casing,cased,casings|An incident or situation that needs attention|adef55da-4f06-44e1-a490-c0c98ce4bab2|1|keɪs|keɪs
+7806|451|along||Moving in a line on or near a surface.|4324302b-e640-47b0-8a46-0065abed1214|1|əˈlɒŋ|əˈlɔːŋ
+16879|452|trust|trusts,trusting,trusted,trustful|Belief in the reliability, truth, or ability of someone or something|f31bb5c6-e24c-46f1-8f4a-7d08d4e3fc93|1|trʌst|trʌst
+5720|453|stick|sticks,sticking,stuck|A piece of wood, often thin and long|f49e7dcd-5f3f-4247-85d1-04d9baba6387|1|stɪk|stɪk
+628|454|answer|answers,answering,answered,answerable|A reply to a question or problem.|1061dc35-a3d0-43ad-8d9c-a947d226c1c2|1|ˈɑːnsə(r)|ˈænsər
+5454|455|smile|smiles,smiling,smiled|A pleased or kind expression on your face|94e5d4ee-ba2a-4412-800c-eca9dfe5759d|1|smaɪl|smaɪl
+1547|456|bed|beds,bedded|A piece of furniture for sleeping on|2a96125c-fa5f-4e8e-a55e-7123d79b0dc7|1|bed|bed
+867|457|ground|grounds,grounding,grounded|The solid surface of the earth|4d1c2c51-78cb-4921-8f59-678005e314cf|1|ɡraʊnd|ɡraʊnd
+8226|458|land|lands,landing,landed,landless|The solid part of the earth's surface that is not covered by water.|78693938-538f-42f0-b628-a8d9b62fc783|1|lænd|lænd
+8458|459|voice|voices,voicing,voiced|The sounds that come out of a person's mouth when they speak or sing|f4317519-510a-4238-9ee2-b8d29add991e|1|vɔɪs|vɔɪs
+20508|460|exact|exacts,exacting,exacted,exactly,exactness|Precise and accurate, leaving no room for uncertainty|0b360822-2977-4243-97e0-44b1e54e2a84|1|ɪɡˈzækt|ɪɡˈzækt
+11059|461|rise|rises,rising,rose,risen|To move from a lower to a higher position|a17ca1f0-4ff2-4fbd-8b0a-276ea852865f|1|raɪz|raɪz
+2459|462|front|fronts,fronting,fronted|The part of a building or object that faces forward or toward the direction it goes|1a283b58-f891-4967-b266-720b1474ff94|1|frʌnt|frʌnt
+16197|463|experience|experiences,experiencing,experienced|The knowledge or skill acquired by a period of practical involvement in an activity.|e81d6d88-3fbb-4358-a81c-8fcfe99e40d0|1|ɪkˈspɪəriəns|ɪkˈspɪriəns
+4269|464|team|teams,teaming,teamed|A group of people who work together to achieve a common goal|f61dff83-d7cd-4cb4-adbc-69240738d8f1|1|tiːm|tiːm
+7998|465|piece|pieces,piecing,pieced|A part of something that has been separated from the whole|7a097931-773d-4303-b79e-617a50b0d9ae|1|piːs|piːs
+305|466|roll|rolls,rolling,rolled|To move by turning over and over on an axis|f1614cd1-d2bc-4063-8eee-07fc08c135d6|1|rəʊl|rəʊl
+5801|467|ago||Used to describe a certain period of time that has passed from now.|c2d68f35-e85d-4f9c-a875-971e557cfb21|1|əˈɡəʊ|əˈɡəʊ
+1071|468|tomorrow|tomorrows|The day after today|afd61a04-23ee-43fa-af47-7063c32cc0d6|1|təˈmɒrəʊ|təˈmɑːrəʊ
+10980|469|wall|walls,walling,walled|A solid structure that encloses or divides any space.|939c0eee-b8cc-40bb-9b2a-215f3dcc5862|1|wɔːl|wɔːl
+7793|470|born|unborn,reborn|When a baby comes out of its mother's body.|c6fbc073-e7dc-41e3-96e5-3a8331e8de6d|1|bɔːn|bɔːrn
+13011|471|rock|rocks,rocking,rocked|A naturally hard material from broken pieces of stones or mineral.|356446e5-21f4-45c9-adb0-8d20ef6ad0c0|1|rɒk|rɑːk
+11491|472|blow|blows,blew,blown,blowed,blowing,blower|to push air out of the mouth or to move something with the force of wind|bfc8aed2-bb53-43b7-843e-851975ff5a01|1|bləʊ|bləʊ
+4267|473|wife|wives,wifey,exwife,exwives|A married woman, especially when considered in relation to her partner in marriage.|fcec8605-46a3-4842-99d0-95a3a451031c|1|waɪf|waɪf
+3508|474|sign|signs,signing,signed,unsigned,signings|A piece of information, a symbol or an action that tells you something|f640222b-3515-4287-9a6b-7eb1b856a948|1|saɪn|saɪn
+14257|475|serious|seriousness,seriously|Important or severe in degree|de3dcc82-180d-4e72-aebe-f08345f1ad97|1|ˈsɪəriəs|ˈsɪriəs
+2240|476|alive|aliveness|Living, not dead|60198957-75f7-4fa1-92fa-ce9025aeb984|1|əˈlaɪv|əˈlaɪv
+2548|477|figure|figures,figuring,figured|A number that represents something, especially an official number|9b2e3b76-13c6-4361-8b4b-a064726be68c|1|ˈfɪɡə(r)|ˈfɪɡjər
+8758|478|sell|sells,selling,sold,seller,sellers,cosell|To give something to someone in exchange for money|50dcae78-fe93-47e2-898b-3081434e21c9|1|sel|sel
+8947|479|hot|hotter,hottest,hots,hotting,hotted|Having a high temperature.|9550beac-9d39-42ad-a194-10e91cb4f3d5|1|hɒt|hɑːt
+10464|480|outside|outsides|something that is in an area beyond a certain limit or boundary|74afc016-04c6-497b-a7b5-c1153d055d1c|1|ˌaʊtˈsaɪd|ˌaʊtˈsaɪd
+10653|481|train|trains,training,trained,trainor|A sequence of railroad cars moved as a unit by a locomotive or by integral motors|70a9fbd1-2eb5-4be8-bb2e-93de5ca24dd6|1|treɪn|treɪn
+8330|482|picture|pictures,picturing,pictured|A visual image or representation such as a painting, photograph, or drawing.|d36453f5-58ec-40fd-8f48-cd9eb9269ae2|1|ˈpɪktʃə(r)|ˈpɪktʃər
+10382|483|complete|completes,completing,completed,completely,completeness|having all parts or elements|88fd0ca2-c306-4ad9-ac6c-c6b442c558e2|1|kəmˈpliːt|kəmˈpliːt
+21297|484|parent|parents,parented,parenting,parental,coparenting,coparent|A person's mother or father.|c65afca9-1a94-4240-bc3d-204df87e4cf1|1|ˈpeərənt|ˈperənt
+6669|485|record|records,recording,recorded,recordings|A written report or collection of information about a subject.|39d86227-3e4d-4457-95c0-d2441a2bfb8d|1|ˈrekɔːd|ˈrekərd
+15461|486|future|futures|The time that will come after the present or the events that will happen then|5c29b53e-8a24-48a1-9a5b-9137ab9bb137|1|ˈfjuːtʃə(r)|ˈfjuːtʃər
+7966|487|funny|funnier,funniest,funnies,funniness,unfunny|Causing laughter or amusement|956e79c3-f119-4261-8e9b-e5238c533379|1|ˈfʌni|ˈfʌni
+16472|488|air|airs,airing,aired|The invisible gas that people and animals breathe|2df29085-0c57-44fe-bd57-3ab1df4f8884|1|eə(r)|er
+661|489|laugh|laughs,laughing,laughed|to express happiness or amusement by making a sound and smiling|67d9a5e7-5bce-4307-b828-738720ec85e4|1|lɑːf|læf
+4568|490|god|gods,godly|A supreme being who is worshiped as the one who controls or influences everything in the universe.|28cc01a0-d3e0-486a-b8f8-a0d067a6b73e|1|ɡɒd|ɡɑːd
+14928|491|hair|hairs,haired,hairless|thin, threadlike growths that come from the skin of humans and some animals|8c7bc44b-8909-40ba-93e2-c51b4bccc128|1|heə(r)|her
+15186|492|food|foods|Any substance that people or animals eat or plants absorb to maintain life and growth.|ee8628f2-2504-4ca9-9fda-fc95188c23cf|1|fuːd|fuːd
+4468|493|month|months,monthly|One of the twelve parts that a year is divided into, such as January, February, or March.|829025a3-09d2-4422-a93b-d14f2627b272|1|mʌnθ|mʌnθ
+4341|494|lay|lays,laying,laid|To put something down gently in a flat position|421f2cd5-11a9-4d31-9d24-3b00ea5fc187|1|leɪ|leɪ
+13934|495|fill|fills,filling,fillings,filled|To put something into a container, area, etc. until it is full.|6b847167-a9fb-4e5e-bb90-f83f58b04d2a|1|fɪl|fɪl
+2892|496|choose|chooses,choosing,chose,chosen|To make a decision from two or more options|2873ec52-68d0-4aab-acaa-6276c06c97a0|1|tʃuːz|tʃuːz
+16095|497|reach|reaches,reaching,reached,reacher,reachable|To get to a particular place or point|06f7c490-d09c-4f45-b475-7c3aaa985aef|1|riːtʃ|riːtʃ
+14309|498|character|characters,characterless|The features that make someone or something unique or different from others.|0725e4ce-336a-409e-989f-390b96dd1802|1|ˈkærəktə(r)|ˈkærəktər
+1032|499|afraid|unafraid|Feeling fear or worry|e51512ce-ac62-40f3-8b77-9dbae020871c|1|əˈfreɪd|əˈfreɪd
+13587|500|drop|drops,dropping,dropped|To let something fall|d8f75ee1-41a8-455b-8384-ce00bb9b6523|1|drɒp|drɑːp
