@@ -24238,3 +24238,4 @@
 33023|24240|workbox||A box where tools or materials for work are kept.|1b1288c1-3354-4f97-a0cd-4aa996118e23|1|ˈwɜːkbɒks|ˈwɜːrkbɑːks
 33045|24241|zamindar|zemindar|A historical term for a landowner in India who collects taxes from farmers.|4cb5005e-4c66-455c-808f-7d00169b4bf3|1|zəˈmiːndɑː(r)|zəˈmiːndɑːr
 33048|24242|zeugma||A figure of speech in which a single phrase or word is connected with two others, but is used differently and creates a different sense with each connection.|2e066ed0-009a-4297-9307-3efb3ac55419|1|ˈzjuːɡmə|ˈzuːɡmə
+33054|24243|zoroastrian||A member of a religion called Zoroastrianism, which started in ancient Persia.|7d206e69-92e7-4e2a-9f25-45e9c7f884cf|1|ˌzɒrəʊˈæstriən|ˌzɔːrəʊˈæstriən
