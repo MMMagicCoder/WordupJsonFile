@@ -1,1 +1,2 @@
 4525|1|be|am,are,is,was,were,been,'m,m|exist or live|30b5d81d-3549-4084-b45c-ae325b4dec51|1|biː|bi
+1111|2|the||Used to point forward to a following qualifying or defining clause or phrase.|4278b6cc-d60b-4ed0-8761-cc8e710e432c|1|ðiː|ðə,ði
