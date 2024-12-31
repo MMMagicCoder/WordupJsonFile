@@ -1,0 +1,120 @@
+{
+    "Usage": "The word 'application' is often used when talking about computer and phone programs. These are also called 'apps'. You might hear someone say, \"I downloaded a new application on my phone.\" This means they got a new program to use on their phone, like a game or a tool to help them organize their day. 'Application' can also mean a form you fill out when you want to apply for something, like a job or a school. It's important to pay attention to the context of how the word is used to understand its meaning.",
+    "Senses": [
+        {
+            "id": "ef73b777-afc5-4c4b-99e7-f82691c362d3",
+            "de": "The act of applying or using something.",
+            "ty": "noun",
+            "ex": "The application of heat can relieve muscle pain.",
+            "use": "",
+            "sy": "usage, use",
+            "op": "misuse, disuse",
+            "re": "",
+            "tp": "Physical Process|Use it when referring to a procedure or method in various practices like science.|The application of a theory in a real-world situation.\r\nAbstract Concepts|It can be used with abstract ideas, not just physical things.|Her application of wisdom to solve problems impressed her teacher.",
+            "cl": [
+                "application of knowledge",
+                " application of science",
+                " application of pressure"
+            ]
+        },
+        {
+            "id": "47290372-1c57-4287-8ab7-aef9f7c4b187",
+            "de": "A formal request for something, such as a job, school position, or loan.",
+            "ty": "noun",
+            "ex": "She sent in her application for the job.",
+            "use": "",
+            "sy": "request, appeal",
+            "op": "rejection, withdrawal",
+            "re": "",
+            "tp": "Formal Request|Refers to the process of formally asking for something like a job or admission.|I need to submit my college application by next week.\r\nWritten Document|Often implies a written form or online submission.|His job application was carefully prepared to impress.",
+            "cl": [
+                "job application",
+                " school application",
+                " loan application"
+            ]
+        },
+        {
+            "id": "71a794be-a18b-49cd-9983-e4390c94c8c5",
+            "de": "A computer program designed for end users.",
+            "do": "Computing",
+            "ty": "noun",
+            "ex": "He downloaded a new application for editing photos on his phone.",
+            "use": "Modern",
+            "co": "Technical",
+            "sy": "app, software",
+            "re": "",
+            "tp": "Technology Use|In tech, it usually suggests software for tasks on electronic devices.|She uses a calendar application to schedule her meetings.\r\nUser-Friendly|Tech applications are designed to be easy for the general public to use.|Find an application that offers user-friendly controls.",
+            "cl": [
+                "mobile application",
+                " desktop application",
+                " web application"
+            ]
+        },
+        {
+            "id": "df10516f-ef77-433b-9adb-644dc20d29a4",
+            "de": "Concentration, diligence or hard work.",
+            "ty": "noun",
+            "ex": "With careful application, you can improve your grades.",
+            "use": "",
+            "sy": "effort, diligence",
+            "op": "laziness, neglect",
+            "re": "",
+            "tp": "Steady Focus|Emphasizes consistent and careful attention to a task.|Her application to studying resulted in a high exam score.\r\nEffort Over Time|Suggests sustained effort, not just a one-time action.|Continuous application to his training made him a champion.",
+            "cl": [
+                "application of mind",
+                " careful application",
+                " serious application"
+            ]
+        }
+    ],
+    "Phrases": [],
+    "Quotes": [
+        "450135|23780|Stephen Hawking|English Physicist|Throughout history, people have studied pure science from a desire to understand the universe rather than practical applications for commercial gain. But their discoveries later turned out to have great practical benefits.",
+        "5945|26646|Yuri Milner|Russian Businessman|It is hard to think of practical applications of the black hole. Because practical applications are so remote, many people assume we should not be interested. But this quest to understand the world is what defines us as human beings.",
+        "26488|7821|Farhan Akhtar|Indian Director|BMB' has opened up a world of possibilities. It has inspired me to believe that the really difficult things in life can be achieved by sheer application.",
+        "148069|11841|Jenny Han|South Korean Author|College applications are such a huge part of senior year, yet often times you never see characters in books actually do work.",
+        "273389|18612|Neal Patterson|American Businessman|I designed and developed an unbelievable number of applications early in my life.",
+        "297476|18993|P. T. Barnum|American Entertainer|No man has a right to expect to succeed in life unless he understands his business, and nobody can understand his business thoroughly unless he learns it by personal application and experience.",
+        "407262|22242|Sam Harris|American Author|I consistently encounter people in academic settings and scientists and journalists who feel that you can't say that anyone is wrong in any deep sense about morality, or with regard to what they value in life. I think this doubt about the application of science and reason to questions of value is really quite dangerous.",
+        "414032|22298|Satya Nadella|American Businessman|Our goal with the cloud is to make sure that our cloud and our cloud applications are available on every device in the world.",
+        "419122|22537|Sean Bean|English Actor|At art college, I started to do music and then painting and drawing - and that would have been my ideal life, to be an artist and be paid for it, to be able to create stuff. I realized it was difficult, but I don't know if I had the application for it.",
+        "442661|23450|Sophia Amoruso|American Businesswoman|When I go through hundreds of applications from people who all have very similar-sounding experience, cover letters are the only glimpse I have into a person's personality."
+    ],
+    "Videos": [
+        "39518082|How to unboil an egg -...|2000-6855╣that adds extra stress and encourages it to fold up first.■6855-11062╣This unboiling method won't work with a whole egg in its shell■11062-15234╣since the solution has to spread throughout a cylindrical chamber.■15234-19825╣But the applications go way beyond uncooking your breakfast, anyhow.|CHMY4G9gTPA|149000-170000",
+        "11113091|Eduardo Sáenz de...|2000-3947╣this question makes no sense,■3947-6695╣because mathematics have a meaning all their own --■6695-9242╣a beautiful edifice with its own logic --■9242-11109╣and that there's no point■11109-13656╣in constantly searching for all possible applications.■13656-15945╣What's the use of poetry? What's the use of love?■15945-19006╣What's the use of life itself? What kind of question is that?|pGlZi2SwETc|91000-112000",
+        "38670825|Upgrading management...|2000-6380╣problem in our personal lives at home■4520-8030╣were used to technology acting like a■6380-10250╣coach and helping us who in this room■8030-11840╣hasn't used a mapping application to■10250-14180╣coach you on how to go anywhere new the■11840-17270╣first few times we rely on health■14180-19280╣trackers to help us achieve our fitness■17270-23560╣goals or in my case gently nudging me to|suywTZi4FOQ|262000-287000",
+        "36707036|Welcome to Atlantium,...|2000-8269╣refused to take it back my mother took■4640-10190╣it back out of embarrassment my parents■8269-11750╣raised me with the idea that in this■10190-14599╣country with the right amount of■11750-17239╣intelligence and application you can■14599-19489╣really achieve anything they also taught■17239-20900╣me that if you didn't like the way the|6GXYUjApwVY|227000-250000",
+        "46504441|Filming Walrus With The...|2000-6230╣underwater and then on top was two■4100-7580╣walrus sitting on top so it's really■6230-10280╣great feel like this is the perfect■7580-12680╣application for it because you know out■10280-15380╣here the ice is so much of it to■12680-19000╣underwater and we just get to see the■15380-19000╣whole bird you know it's very cool|4rAq6Vo-FJQ|92000-113000",
+        "38824523|How aspirin was...|2000-6971╣and researchers continue searching for new applications.■6971-11282╣Already, aspirin's versatility has transformed modern medicine,■11282-14342╣which is astounding considering its humble beginnings■14342-17171╣in a scraping of willow bark.|uRhkDN2WjzI|310000-329000",
+        "39312965|How batteries work -...|2000-4498╣with the application of electricity.■4498-7931╣Plugging in a charger draws the electricity from a wall outlet■7931-11116╣that drives the reaction to regenerate the metal,■11116-15894╣making more electrons available for oxidation the next time you need them.■15894-18694╣But even rechargeable batteries don't last forever.■18694-22545╣Over time, the repetition of this process causes imperfections|9OVtk6G2TnQ|171000-196000",
+        "38813577|Music and creativity in...|2000-4575╣and it's where we get the word harmony.■4575-6640╣Music was used as a form of medicine■6640-8665╣to treat illnesses and physical complaints,■8665-11864╣as a vital accompaniment to sporting contests,■11864-13762╣and as a means to keep workers in time■13762-18582╣as they toiled away on monotonous or menial tasks.■18582-20187╣One of the most important applications|-1aAunaw1GA|169000-192000",
+        "38995641|Which sunscreen should...|2000-3410╣When we choose a sunscreen,■3410-5960╣we can compare application method,■5960-7241╣the SPF,■7241-8700╣and the active ingredients.■8700-11660╣Sprays can be convenient to put on, especially when you're wet,■11660-15132╣but a recent study found that most people don't apply a thick enough layer■15132-16879╣to get full protection.|JX8rv_natkw|92000-111000",
+        "10917331|A headset that reads...|2000-4000╣to any computing platform,■4000-6000╣application or device.■6000-8000╣So I'd like to show you a few examples,■8000-10000╣because there are many possible applications■10000-12000╣for this new interface.■13000-15000╣In games and virtual worlds, for example,■15000-17000╣your facial expressions|fVhggGSjXVg|486000-505000"
+    ],
+    "Comparisons": [
+        "Appeal|An appeal is a request for reconsideration of a decision that has already been made by a higher authority.\n\nIt is usually made when the decision is believed to be incorrect, unjust, or unfair. An appeal is typically made to a court, a professional organization or a government agency.\n\nFor example, if someone has been convicted of a crime and believes that the judgement was incorrect, they can file an appeal to a higher court.\n\nThe main difference between an appeal and an application is that an appeal is made after a decision has been made while an application is made before a decision has been made.",
+        "Claim|Claim means to declare something to be true or to demand compensation for something, like an insurance claim or a legal claim.\n\nIt is often used when someone is stating that they have a right to something, such as claiming a prize or claiming ownership of a property.\n\nApplication is used when requesting something, while claim is used when asserting a right to something.",
+        "Entreaty|Entreaty means a humble request or plea, often made with urgency or desperation. It's used to describe a request made to someone, usually a person of authority or influence, in the hopes of receiving their help or assistance.\n\nApplication is a formal request for something, while entreaty is a more emotional and urgent request for help or assistance.",
+        "Petition|A petition is a document that is used to ask for a change in something that already exists, or to make a request to a government, company, organization or other entity.\n\nFor example, if you want to change a law or regulation, you would create a petition asking the government to change it.\n\nSo, while both words involve making a request, applications are used to ask for something you want, while petitions are used to ask for change.",
+        "Proposal|A proposal is a written plan or suggestion that is presented to a person or a group. It outlines an idea or a project and explains how it will be executed.\n\nProposals are usually used to request funding, permission to do something, or to persuade someone to take action.\n\nIn summary, applications are used to apply for something, while proposals are used to suggest ideas or projects. Applications are typically used in the context of employment or education, whereas proposals can be used in a variety of contexts, such as business, science, and politics.",
+        "Request|An application is a formal document or process, usually involving filling out a form, that you submit to request something or to be considered for something, such as a job, school admission, or a loan.\n\nA request is simply asking for something, usually informally, but it can also be done formally. For instance, you can request a promotion at work, request someone to complete a task for you, or request permission from your parents to go out with friends.\n\nOverall, applications imply a more formalized process and are usually associated with more significant or consequential things, while requests are generally informal and more common in everyday life.",
+        "Submission|Submission is the act of handing something over for consideration, approval, or decision.\n\nApplication is used when you are asking for something, and submission is used when you are giving something for someone else to review or decide on.",
+        "Suit|Suit usually refers to a set of clothes that match, usually a jacket and pants made from the same fabric. It is worn for formal or professional occasions, such as weddings or interviews.\n\nApplication is applicable when you are requesting or proposing something, while suit is applicable when you are dressing up formally."
+    ],
+    "Wisdom": [
+        "A theory is only as good as its application.",
+        "Every problem has a solution, if you approach it with the right application.",
+        "Never underestimate the impact of a well-designed computer program or application.",
+        "Success requires dedication and hard work; application is key.",
+        "A lecture is only effective when it is accompanied by practical application of its teachings."
+    ],
+    "Facts": [
+        "Practical engineering attempts to bridge the gap between scientific theory and real-world applications.",
+        "Vegetable oil is often used as a cost-effective alternative to traditional fuel applications.",
+        "Laptops are now used for a variety of medical applications such as monitoring vital signs, providing patient care and image analysis.",
+        "Forensic psychology is the application of psychological principles to the criminal justice system, helping to identify motives, for example.",
+        "The STEM field of mathematics has applications in many areas of science, engineering and technology."
+    ],
+    "Misspellings": "Aplicaiscin|Apliceiscin|Aplecaiscin"
+}
